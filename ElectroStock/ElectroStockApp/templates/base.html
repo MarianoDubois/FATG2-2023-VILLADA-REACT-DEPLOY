@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% block title %}Mi sitio web{% endblock %}</title>
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="/">Inicio</a></li>
+				<li><a href="/upload_csv/">Subir archivo CSV</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		{% block content %}
+		{% endblock %}
+	</main>
+</body>
+</html>

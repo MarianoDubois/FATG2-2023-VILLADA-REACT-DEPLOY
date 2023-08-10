@@ -1,0 +1,13 @@
+---ENDPOINTS---
+
+* Elementos ver y editar todo ✅
+* Elementos para el ecommerce solo ver con filtro en query ✅
+* Prestamo solo ver con filtro en query y permisos para solo ver los de tu usuario ✅
+* Prestamo ver y editar todo ✅
+* Inventario ver y editar todo ✅
+* Historial inventario ver y editar ✅
+* Historial prestamos ver y editar ✅
+* Detalles del presupuesto ver y editar ✅
+* Categoria ver y editar ✅
+* sub-categoria ver y editar ✅
+

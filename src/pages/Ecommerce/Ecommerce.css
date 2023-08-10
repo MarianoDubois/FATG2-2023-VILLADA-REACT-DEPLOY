@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(4, 54, 54);
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.card:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+  transition: box-shadow 0.3s, transform 0.3s;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.col-4 {
+  padding-top: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: calc(33.33% - 2rem);
+  margin: 1rem;
+}
+
+.cargarMas {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+#ecommerce{
+  margin-top: 6rem;
+  margin-left: 4rem;
+  align-items: center;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem; /* Espacio entre las tarjetas */
+}
+
+/* Ajustar el margen según el tamaño de la pantalla */
+@media (max-width: 767px) {
+  .mb-4 {
+    margin-bottom: 1rem; /* Espacio más pequeño en pantallas pequeñas */
+  }
+}
+
+@media (max-width: 575px) {
+  .mb-4 {
+    margin-bottom: 0.5rem; /* Espacio aún más pequeño en pantallas más pequeñas */
+  }
+}

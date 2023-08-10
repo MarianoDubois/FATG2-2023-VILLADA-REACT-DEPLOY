@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Subir archivo CSV</h1>
+  {% if success %}
+    <div class="alert alert-success" role="alert">
+      El archivo se ha cargado exitosamente en la base de datos.
+    </div>
+  {% endif %}
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div class="form-group">
+      <label for="csv_file">Archivo CSV:</label>
+      <input type="file" class="form-control-file" id="csv_file" name="csv_file" accept=".csv">
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+  </form>
+{% endblock %}
+
