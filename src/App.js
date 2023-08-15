@@ -10,6 +10,7 @@ import Layout from "./layout/Layout";
 import * as React from 'react';
 import Ecommerce from "./pages/Ecommerce/Ecommerce.jsx";
 import  './assets/styles/App.css';
+import { initializeApp } from 'firebase/app';
 
 function App() {
   return (
