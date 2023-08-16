@@ -18,7 +18,7 @@ const config = {
     },
     devServer: {
         open: true,
-        allowedHosts:'all',
+        disableHostCheck: true,
     },
     plugins: [
         new HtmlWebpackPlugin({
