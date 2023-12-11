@@ -1,0 +1,1091 @@
+id,name,description,category,ecommerce
+1,Kit herramienta electrónica (Maletines),737-AS12,equipos,TRUE
+2,Caja de pines Veneta,,equipos,TRUE
+3,Caja de respuestos Veneta,,equipos,TRUE
+4,Protoboard,,equipos,TRUE
+5,Estación de desoldado OK Industries (1 Manual del usuario),SA600,equipos,TRUE
+6,Pistola grande p/glufín,,equipos,TRUE
+7,Sujetador de plaquetas,,equipos,TRUE
+8,Puntas para SMD (1121-0357-P5) PACE (0490; 0357; 533),,equipos,TRUE
+9,Perforador DREMEL Mod 395 c/maletín,,equipos,TRUE
+10,"Cargador Rapido para AA, AAA, bateria 9V",,equipos,TRUE
+11,Pulsera antiestática,,equipos,TRUE
+12,Switch TP-LINK TL-SF1008D + Fuente DC,,equipos,TRUE
+13,Adaptador USB a UART D212227,D212227,equipos,TRUE
+14,Módulo LORA 32U4,,equipos,TRUE
+15,Módulo GPS ublox NEO 6M + antena,,equipos,TRUE
+16,Módulo conversor USB/UART modelo PL2303,,equipos,TRUE
+17,Módulo conversor USB/UART modelo CP2102,,equipos,TRUE
+18,Módulo RX AM 433 MHz (RRS3 433.92),,equipos,TRUE
+19,Módulo RX FM 433 MHz,,equipos,TRUE
+20,Módulo TX AM 433 MHz (RT4 433.9),,equipos,TRUE
+21,Módulo TX FM 433 MHz,,equipos,TRUE
+22,HT12E-Codificador serial,,equipos,TRUE
+23,HT12D-Codificador serial,,equipos,TRUE
+24,Módulo Rx-Tx ASK 433MHz (par),,equipos,TRUE
+25,Filtro BIAS TEE HB-NF-PJ,,equipos,TRUE
+26,Módulo Bluetooth modelo RN42,,equipos,TRUE
+27,XBoard para XBee (placa entradas/salidas),CIKA - 28VII2K8,equipos,TRUE
+28,Módulo de RF bidireccional XBee Serie 2 -,XB24-Z7WIT,equipos,TRUE
+29,Módulo de RF bidireccional XBee MaxStream -,XB24-AWI-001,equipos,TRUE
+30,Módulo de RF bidireccional XBee MaxStream -,XB24-ACI-001,equipos,TRUE
+31,Módulo de RF bidireccional XBee Pro S2C,XBP24CZ7SIT-004,equipos,TRUE
+32,Estación de soldado con control de temp. Modelo ZD912,,equipos,TRUE
+33,Motor de CC con caja de reducción IGNIS MR8-78,,equipos,TRUE
+34,Motor de CC con caja de reducción IGNIS MR8-258,,equipos,TRUE
+35,Celda de carga con galga extensiométrica. Carga 100 Kg.,,equipos,TRUE
+36,Medidor de ROE y potencia de RF analógico. Modelo CN-801,,equipos,TRUE
+37,Pinza amperométrica digital CC/CA TRUE RMS. Mod: PROTEK 307,,equipos,TRUE
+38,Cable macho macho 180 cm p/ arduino (grises),,equipos,TRUE
+39,Cable macho macho 50 cm p/ arduino (azules),,equipos,TRUE
+40,Cable macho macho 30 cm p/ arduino (azules),,equipos,TRUE
+41,Entrenador + Programador Microchip SNAP PG164100 c/cable micro USB,,equipos,TRUE
+42,Fuente DC 12V - 9A Celsius,,equipos,TRUE
+43,Organizador plástico con divisorios para componentes,,equipos,TRUE
+44,"Analizador de espectro INSTEK 1GHz GSP810 c/tracking generator y demodulador
+ (1 manual)",,equipos,TRUE
+45,Atenuadores 3dB,,equipos,TRUE
+46,Atenuadores 10dB,,equipos,TRUE
+47,Atenuadores 30dB,,equipos,TRUE
+48,Bloqueadores de CC,,equipos,TRUE
+49,Cargas ficticias de 50 W 15 W,,equipos,TRUE
+50,Puente RCL (1 Manual del usuario),RCL51A,equipos,TRUE
+51,Frecuencímetro (1 Manual del usuario),UC504,equipos,TRUE
+52,Trazador de curvas (1 Manual del usuario),HM6042,equipos,TRUE
+53,Programador y Debugger MCE ICD2 Compatible MPLAB (www.mcelectronics.com.ar),,equipos,TRUE
+54,MPLAB PICKIT 4 + Cable Usb + Cable plano,,equipos,TRUE
+55,Placa entrenadora Intel Galileo,,equipos,TRUE
+56,Kit FRDM NXP FRDM-KL46Z,,equipos,TRUE
+57,Placa freescale FRDM-KE02Z40M,,equipos,TRUE
+58,Reostato toroidal SCRAM 100 ohm 25W,,equipos,TRUE
+59,Caja plastica con herramientas y repuestos 3D,,equipos,TRUE
+60,Calibrador de proceso FLUKE 725,,equipos,TRUE
+61,Analizador de estados lógicos AP01,,equipos,TRUE
+62,Analizador de estados lógicos TA320S,,equipos,TRUE
+63,Conversor RS232 - USB Cable USB/Serial Manhattan,,equipos,TRUE
+64,Módulo GPS,,equipos,TRUE
+65,Antena GPS,,equipos,TRUE
+66,Generador de RF (AM/FM) de 100 KHZ a 150 MHz. Mod: Gw INSTEK GRG-450B,,equipos,TRUE
+67,Generador de funciones hasta 3 MHz. Mod: Gw INSTEK GFG-8219A,,equipos,TRUE
+68,Modem G24-L con antena,,equipos,TRUE
+69,MCE TrackMe GPS c/antena,,equipos,TRUE
+70,MCE Programador y debugger express,,equipos,TRUE
+71,MCE Webserver DEV,,equipos,TRUE
+72,Sintonizador RTL-SDR.COM + antena,RTL2832U R820T2,equipos,TRUE
+73,Multimetro FLUKE 23 Series II,,equipos,TRUE
+74,Multímetro UNIT 33 A,,equipos,TRUE
+75,Multímetro UNIT 33 D,,equipos,TRUE
+76,Microscopio Portable NISUTA c/ Bateria + Cargador + Cable USB + Base metálica + Cable video + CD Drivers + Paños,NS-DIMP,equipos,TRUE
+77,Arduino uno + cable USB A male a B male,,equipos,TRUE
+78,Arduino Mega 2560,,equipos,TRUE
+79,Caja SHIELD ARDUINOS (entrandores 4to),,equipos,TRUE
+80,Bolsa cables Dupont Macho-Macho,,equipos,TRUE
+81,Bolsa cables Dupont Macho-Hembra,,equipos,TRUE
+82,Medidor Temperatura FLUKE 52 K/J,,equipos,TRUE
+83,Medidor Temperatura FLUKE 51 II,,equipos,TRUE
+84,Pirómetro CAIPE PCT (p/termocuplas),,equipos,TRUE
+85,Módulo Ethernet/RS232,,equipos,TRUE
+86,Módulo USB/RS232,,equipos,TRUE
+87,Caja de herramientas c/candado 500x260x250,,equipos,TRUE
+88,Organizador plástico con divisorios para componentes,,equipos,TRUE
+89,Teclado matricial 4x4 para Arduino,,equipos,TRUE
+90,Desoldador a émbolo,,equipos,TRUE
+91,Alicate PRO´S KIT 8PK-101D (13+4),,equipos,TRUE
+92,Pinza de punta PRO´S KIT 8PK-102D (3+3),,equipos,TRUE
+93,Pinza de indentar (8PK312N - 6HT301A),,equipos,TRUE
+94,Pinza para crimpear RJ (mango rojo),,equipos,TRUE
+95,Pinza para crimpear RJ Pro´s Kit 808-376 I,,equipos,TRUE
+96,Pinza de indentar / pelacable - Pro´sKit (mango verde),,equipos,TRUE
+97,Pinza de indentar / pelacable - Beta 1602,,equipos,TRUE
+98,Martillo,,equipos,TRUE
+99,Kit destornilladores x6 crossmaster (amarillo),,equipos,TRUE
+100,Kit de destornilladores p/electrónica (x6),,equipos,TRUE
+101,Destornilladores puntas tork,,equipos,TRUE
+102,Juego de llaves allem milimétricas x 9 unid - Crossman,,equipos,TRUE
+103,Cinta métrica x 3 mts,,equipos,TRUE
+104,Alimentador 0/30V + Alimentador 5/12/24V (Manual del usuario),V30/EV,equipos,TRUE
+105,Fuente de alimentación c/accesorios (1 Manual del usuario),PS1-PSU/EV,equipos,TRUE
+106,"Maqueta con bomba y sensores nivel, caudal, presión liquidos",TY30A/EV,equipos,TRUE
+107,Banco de trabajo con dos cajones e interruptor magnetotérmico,TOP/EV,equipos,TRUE
+108,Taburete giratorio con respaldar,F/EV,equipos,TRUE
+109,Taburete fijo negro,,equipos,TRUE
+110,Mesa de madera c/4 cajones,,equipos,TRUE
+111,Sillas de madera,,equipos,TRUE
+112,Sillas giratorias rojas,,equipos,TRUE
+113,Perchero,,equipos,TRUE
+114,Armarios metálicos doble puerta,BOX,equipos,TRUE
+115,Armario metálico por 6 compartimientos individuales,,equipos,TRUE
+116,Ventilador de pared,,equipos,TRUE
+117,AACC Surrey 4500 Frig,,equipos,TRUE
+118,Mesa de trabajo con estante (M14),,equipos,TRUE
+119,Proyector ViewSonic,PA503S,equipos,TRUE
+120,Alimentador 24V (1 Manual del usuario),PS2A/EV,equipos,TRUE
+121,Circuitos control de temperatura y 1 Manual de prácticas,G34/EV,equipos,TRUE
+122,"Maqueta con calentador, ventilador, sensores de temperatura c/ 1
+  termómetro + baina, 1 RTD, 1 THC, 1 STT, 4 resistencias de calibración",TY34/EV,equipos,TRUE
+123,Circuito control de motor paso a paso c/accesorios,G16/EV,equipos,TRUE
+124,Maqueta control de motor paso a paso (1 Manual de prácticas),TY16/EV,equipos,TRUE
+125,Multímetro digital (1 Manual del usuario),9310H,equipos,TRUE
+126,Soldador lapiz 40W Full Energy + soporte,,equipos,TRUE
+127,Desoldador a émbolo,,equipos,TRUE
+128,Juego de cable p/fuente de alimentación (1 rojo y 1 negro),,equipos,TRUE
+129,Osciloscopios doble trazo de 20 MHz - LG,OS-5020,equipos,TRUE
+130,Box porta módulos,BOX/EV,equipos,TRUE
+131,Componentes con 10 manuales de teoría y prácticas,C20/EV,equipos,TRUE
+132,Generador de funciones (1 Manual del usuario),EM2002,equipos,TRUE
+133,Box porta módulos (plástico),2602,equipos,TRUE
+134,Box porta módulos (metálicos),BOX/EV,equipos,TRUE
+135,Circuito control de posición y velocidad c/accesorios,G36A/EV,equipos,TRUE
+136,Maqueta control de posición y velocidad (1 Manual de prácticas),TY36A/EV,equipos,TRUE
+137,Circuito control de velocidad p/motor trifásico c/accesorios,G37/EV,equipos,TRUE
+138,Maqueta control de velocidad p/motor trifásico (1 Manual de prácticas),TY37/EV,equipos,TRUE
+139,Circuitos control sensor de velocidad y aceleraciones (1 Manual de prácticas),G28/EV,equipos,TRUE
+140,"Maqueta con motor CC, sensor velocidad (dinamo), sensor aceleración",TY28/EV,equipos,TRUE
+141,Multimetro digital (1 Manual de usuario),UT33A,equipos,TRUE
+142,"Circuitos control de nivel, caudal, presión liquidos (1 Manual de prácticas)",G30A/EV,equipos,TRUE
+143,"Circuitos PID control de nivel, caudal, presión liquidos (1 Manual de prácticas)",G30B/EV,equipos,TRUE
+144,Circuitos control de presión aire (1 Manual de prácticas),G35/EV,equipos,TRUE
+145,Maqueta con compresor y electroválvula reguladora de presión aire,TY35/EV,equipos,TRUE
+146,"Sistemas control PC (1 Tarjeta para PC + 1 CD Software + 1 cable plano
+  + 1 terminal de I/O A/D + 9 diskette + 3 Manuales)",MFI-I,equipos,TRUE
+147,"Circuitos acondicionamiento para sensor de posición con potenciómetro
+  (1 Manual de prácticas)",G22/EV,equipos,TRUE
+148,Circuitos control para sensor de fuerza (celda de carga) (1 Manual de prácticas),G25/EV,equipos,TRUE
+149,Maqueta con celda de carga y pesos (2 de 1 Kg + 4 de 250 gr.),TY25/EV,equipos,TRUE
+150,Circuitos control para sensores de proximidad (1 Manual de prácticas),G29/EV,equipos,TRUE
+151,"Maqueta con sens. de prox. inductivos lineales y On/Off, capacitivos On/Off",TY29/EV,equipos,TRUE
+152,Multímetro digital (1 Manual del usuario),GDM-350,equipos,TRUE
+153,Sirena 12V,,equipos,TRUE
+154,Generador de funciones (1 Manual del usuario),GFG-8015G,equipos,TRUE
+155,Alimentador 0/30V + Alimentador 5/12/24V (Manual del usuario),V30/EV,equipos,TRUE
+156,"CPU Intel I3 - 3250 - 4 GB RAM + Monitor Led 18,5""+ multimedia + disco 500GB + Grabadora DVD + teclado + mouse",,equipos,TRUE
+157,Parlante Bluetooth SPIKA,SP4412,equipos,TRUE
+158,Perforadora de papel,,equipos,TRUE
+159,Impresora Laser Brother HL-1212W,,equipos,TRUE
+160,Abrochadora,,equipos,TRUE
+161,Calibre,,equipos,TRUE
+162,Conversor USB a SD,,equipos,TRUE
+163,Trinchetas,,equipos,TRUE
+164,Zapatilla multinorma,,equipos,TRUE
+165,Alimentador 0/30V + Alimentador 5/12/24V (Manual del usuario),V30/EV,equipos,TRUE
+166,Alicate PRO´S KIT 8PK-101D + Pinza de punta PRO´S KIT 8KP-102D+juego de destornilladores x 5,,equipos,TRUE
+167,Entrenador + Programador Microchip SNAP PG164100 c/cable micro USB,,equipos,TRUE
+168,"CPU + Monitor Led 19"" + multimedia + disco + Grabadora DVD + teclado + mouse",,equipos,TRUE
+169,Termocupla J (3mm - cápsula de inoxidable - 760º),,sensores,TRUE
+170,Termocupla K (didáctica) c/cablecompensado,,sensores,TRUE
+171,Sensor capacitivo con electrónica incorporada. ECFA,HC-P30NAE,sensores,TRUE
+172,Sensor capacitivo con electrónica incorporada. ECFA,HC-P30NA,sensores,TRUE
+173,Sensor de proximidad capacitivo On/Off (diám. 30 mm) - CAP61 - Selet,,sensores,TRUE
+174,Sensor inductivo BALLUFF Mod: BES007J,,sensores,TRUE
+175,Sensor óptico de borrado de fondo BS4-00-5C (20 cm) (detección directa),,sensores,TRUE
+176,Barrera reflex OCV 81CA-NPN (1m),,sensores,TRUE
+177,Sensor optico CDR 30X,,sensores,TRUE
+178,Sensor de llama IRD 920,,sensores,TRUE
+179,Barrera de fibra óptica BF3RX + FT420-10 (200 mm),,sensores,TRUE
+180,Encoder incremental ENC 1-2-1 (c/rueda) (2 pulsos/cm),,sensores,TRUE
+181,Sensor de movimiento por ultrasonido SEMUR-5,,sensores,TRUE
+182,Celda de carga 50 Kg - HBM,,sensores,TRUE
+183,Celda de carga 500 Kg - HBM,,sensores,TRUE
+184,Sensor de desplazamiento LVDT - Solartron,,sensores,TRUE
+185,Sensor de Temp. DS18B20,,sensores,TRUE
+186,Sensor de cauldal 0-25 l/m (F560-121),,sensores,TRUE
+187,PT100 2 hilos - 3mm - solo elemento,,sensores,TRUE
+188,PTC 90°,,sensores,TRUE
+189,Sensor de humedad resistivo (F732-837),,sensores,TRUE
+190,Sensor de humedad capacitivo c/señal acond,HU10NA,sensores,TRUE
+191,Encoder absoluto (8 bit Gray) BOURNS,EAW0J-B24-AE0128,sensores,TRUE
+192,Sensor de fuerza extensiométrica (strain gauge),,sensores,TRUE
+193,Sensor de flujo magnético lineal UGN3503,,sensores,TRUE
+194,Sensor de efecto Hall A1104,,sensores,TRUE
+195,Sensor de presión diferencial MPX2200DP,,sensores,TRUE
+196,Sensor de presión diferencial MPX2100DP,,sensores,TRUE
+197,Sensor de presión absoluto MPX2200AP,,sensores,TRUE
+198,Sensor de presion absoluto MPX5700AP,,sensores,TRUE
+199,Sensor de presión MPX100P,,sensores,TRUE
+200,Sensor de posición rotativo de 10 posiciones - FUJISOKU,,sensores,TRUE
+201,Resistencia de 51 Ω 1/4W 1%,,resistencias,TRUE
+202,Resistencia de 100 Ω 1/4W 1%,,resistencias,TRUE
+203,Resistencia de 120 Ω al 1%,,resistencias,TRUE
+204,Resistencia de 150 Ω al 1%,,resistencias,TRUE
+205,Resistencia de 270 Ω al 1%,,resistencias,TRUE
+206,Resistencia de 330 Ω al 1%,,resistencias,TRUE
+207,Resistencia de 390 Ω al 1%,,resistencias,TRUE
+208,Resistencia de 470 Ω al 1%,,resistencias,TRUE
+209,Resistencia de 750 Ω al 1%,,resistencias,TRUE
+210,Resistencia de 1 KΩ al 1%,,resistencias,TRUE
+211,"Resistencia de 1,2 KΩ al 1%",,resistencias,TRUE
+212,"Resistencia de 1,3 KΩ al 1%",,resistencias,TRUE
+213,"Resistencia de 2,2 KΩ al 1%",,resistencias,TRUE
+214,"Resistencia de 1,4 KΩ al 1%",,resistencias,TRUE
+215,"Resistencia de 4,7 KΩ al 1%",,resistencias,TRUE
+216,"Resistencia de 5,6 KΩ al 1%",,resistencias,TRUE
+217,Resistencia de 15 KΩ al 1%,,resistencias,TRUE
+218,Resistencia de 18 KΩ al 1%,,resistencias,TRUE
+219,Resistencia de 22 KΩ al 1%,,resistencias,TRUE
+220,Resistencia de 39 KΩ al 1%,,resistencias,TRUE
+221,Resistencia de 100 KΩ al 1%,,resistencias,TRUE
+222,Resistencia de 120 KΩ al 1%,,resistencias,TRUE
+223,Resistencia de 470 KΩ al 1%,,resistencias,TRUE
+224,Resistencia de 1 MΩ al 1%,,resistencias,TRUE
+225,Resistencia de 3 MΩ al 1%,,resistencias,TRUE
+226,Resistencias de 1/4 W - 12 valores - 7 décadas por 100 unid,,resistencias,TRUE
+227,Resistencia de baja inductancia 100 W (F643-051),,resistencias,TRUE
+228,Resistencias de 2 W - 12 valores - 7 décadas por 50 unid,,resistencias,TRUE
+229,Resistencias SMD 470 Ω,,resistencias,TRUE
+230,Resistencias SMD 1 KΩ,,resistencias,TRUE
+231,Resistencias SMD 12 KΩ,,resistencias,TRUE
+232,Trimmer montaje verticall de 1 KΩ paso .100,,resistencias,TRUE
+233,Trimmer montaje vertical de 10 KΩ paso .100,,resistencias,TRUE
+234,Trimmer montaje vertical de 100KΩ paso .100,,resistencias,TRUE
+235,Trimmer montaje vertical de 100 Ω paso .100,,resistencias,TRUE
+236,Trimmer montaje vertical de 1MΩ paso .100,,resistencias,TRUE
+237,Trimmer montaje vertical de 2 KΩ paso .100,,resistencias,TRUE
+238,Trimmer montaje vertical de 20 KΩ paso .100,,resistencias,TRUE
+239,Trimmer montaje vertical de 200 KΩ paso .100,,resistencias,TRUE
+240,Trimmer montaje vertical de 200 Ω paso .100,,resistencias,TRUE
+241,Trimmer montaje vertical de 5 KΩ paso .100,,resistencias,TRUE
+242,Trimmer montaje vertical de 50 KΩ paso .100,,resistencias,TRUE
+243,Trimmer montaje vertical de 500 KΩ paso .100,,resistencias,TRUE
+244,Trimmer montaje vertical de 500 Ω paso .100,,resistencias,TRUE
+245,Potenciómetro de 10 KΩ (p/mont. sobre caja),,resistencias,TRUE
+246,Potenciómetro de 100 Ω (p/mont. sobre caja),,resistencias,TRUE
+247,Potenciómetro de 20 KΩ / 25 KW (p/mont. sobre caja),,resistencias,TRUE
+248,Potenciómetro de 200 Ω / 250 W (p/mont. sobre caja),,resistencias,TRUE
+249,Potenciómetro de 250 KΩ (p/mont. sobre caja),,resistencias,TRUE
+250,"Potenciómetro de 2,5 KΩ (p/mont. sobre caja)",,resistencias,TRUE
+251,Potenciómetro de 1 KΩ (p/mont. sobre caja),,resistencias,TRUE
+252,Potenciómetro de 1 MΩ (p/mont. sobre caja),,resistencias,TRUE
+253,Potenciómetro de 100 KΩ (p/mont. sobre caja),,resistencias,TRUE
+254,Potenciómetro de 5 KΩ (p/mont. sobre caja),,resistencias,TRUE
+255,Potenciómetro de 50 KΩ (p/mont. sobre caja),,resistencias,TRUE
+256,Potenciómetro de 500 KΩ (p/mont. sobre caja),,resistencias,TRUE
+257,Potenciómetro de 500 Ω (p/mont. sobre caja),,resistencias,TRUE
+258,Potenciometro lineal 20KΩ - 20 vueltas p/gabinete,,resistencias,TRUE
+259,Preset multivuelta de 1 KΩ(p/mont. sobre plaqueta),,resistencias,TRUE
+260,Preset multivuelta de 1 MΩ(p/mont. sobre plaqueta),,resistencias,TRUE
+261,Preset multivuelta de 10 KΩ (p/mont. sobre plaqueta),,resistencias,TRUE
+262,Preset multivuelta de 100 KΩ (p/mont. sobre plaqueta),,resistencias,TRUE
+263,Preset multivuelta de 100 Ω (p/mont. sobre plaqueta),,resistencias,TRUE
+264,Preset multivuelta de 2 KΩ(p/mont. sobre plaqueta),,resistencias,TRUE
+265,Preset multivuelta de 20 KΩ (p/mont. sobre plaqueta),,resistencias,TRUE
+266,Preset multivuelta de 200 KΩ(p/mont. sobre plaqueta),,resistencias,TRUE
+267,Preset multivuelta de 200 Ω (p/mont. sobre plaqueta),,resistencias,TRUE
+268,Preset multivuelta de 5 KΩ (p/mont. sobre plaqueta),,resistencias,TRUE
+269,Preset multivuelta de 50 KΩ (p/mont. sobre plaqueta),,resistencias,TRUE
+270,Preset multivuelta de 500 KΩ (p/mont. sobre plaqueta),,resistencias,TRUE
+271,Preset multivuelta de 500 Ω (p/mont. sobre plaqueta),,resistencias,TRUE
+272,Lámpara 12 V 250 mA (tipo linterna),,lamparas e indicadores,TRUE
+273,1N4005 Diodos Rectificador,,diodos y rectificadores,TRUE
+274,1N4007 Diodos Rectificador,,diodos y rectificadores,TRUE
+275,1N4148 Diodos Silicio,,diodos y rectificadores,TRUE
+276,1N5819 Diodo rectificador Schottky,,diodos y rectificadores,TRUE
+277,"1N4733 / 1N751A / 1N5231 Diodos Zener de 5,1V",,diodos y rectificadores,TRUE
+278,1N4740 / 1N758 Diodos Zener de 10V,,diodos y rectificadores,TRUE
+279,1N4742 o BZX85C12 o BZX79B12 Diodos Zener de 12V,,diodos y rectificadores,TRUE
+280,1N4743 Diodos Zener de 13V,,diodos y rectificadores,TRUE
+281,1N5822 Diodo rectificador Schottky,,diodos y rectificadores,TRUE
+282,"1N5223 Diodo Zener de 2,7V",,diodos y rectificadores,TRUE
+283,"1N4728A Diodo Zener 3,3V",,diodos y rectificadores,TRUE
+284,1N967B Diodo Zener de 18V,,diodos y rectificadores,TRUE
+285,1N5373 Diodo Zener de 68V,,diodos y rectificadores,TRUE
+286,"1N757 Diodo Zener 9,1V",,diodos y rectificadores,TRUE
+287,1N4744 Diodos Zener de 15V,,diodos y rectificadores,TRUE
+288,1N4746 Diodos Zener de 18 V,,diodos y rectificadores,TRUE
+289,1N4749 Diodos Zener de 24v,,diodos y rectificadores,TRUE
+290,1N973 Diodo Zener de 33V,,diodos y rectificadores,TRUE
+291,"1N5234 Diodo Zener de 6,2V",,diodos y rectificadores,TRUE
+292,1N5260 Diodo Zener de 43V,,diodos y rectificadores,TRUE
+293,Puente rectificador W10M -1A,,diodos y rectificadores,TRUE
+294,Puente rectificador KBP xxxx,,diodos y rectificadores,TRUE
+295,Puente rectificador RS207,,diodos y rectificadores,TRUE
+296,Diodos led 3mm amarillo,,opticos y displays,TRUE
+297,Diodos led 3mm rojo,,opticos y displays,TRUE
+298,Diodos led 3mm verde,,opticos y displays,TRUE
+299,Diodos led 5mm amarillo,,opticos y displays,TRUE
+300,Diodos led 5mm rojo,,opticos y displays,TRUE
+301,Diodos led 5mm verde,,opticos y displays,TRUE
+302,Diodos led 5mm RGB,,opticos y displays,TRUE
+303,Diodos led 10mm rojo,,opticos y displays,TRUE
+304,Diodos led 10mm blanco,,opticos y displays,TRUE
+305,Display 7 segmentos A-común rojo,,opticos y displays,TRUE
+306,Display 7 segmentos k-común rojo,,opticos y displays,TRUE
+307,Display 7 segmentos - 4 dígitos,,opticos y displays,TRUE
+308,Display 7 segmentos bloque 4 dígitos,,opticos y displays,TRUE
+309,Matriz Led 8x8,,opticos y displays,TRUE
+310,LCD de 1 líneas 16 caracteres (chico),,opticos y displays,TRUE
+311,LCD de 2 líneas 16 caracteres (chico),,opticos y displays,TRUE
+312,LCD de 2 líneas 16 caracteres (grande),,opticos y displays,TRUE
+313,LCD de 3 1/2 dígitos,,opticos y displays,TRUE
+314,LDR chico - Fotoresistencias,,opticos y displays,TRUE
+315,Optoacoplador 4N25,,opticos y displays,TRUE
+316,Sensor infrarojo CNY 70,,opticos y displays,TRUE
+317,Optoacoplador Doble CNY74-2,,opticos y displays,TRUE
+318,Optoacoplador rápido 6N136,,opticos y displays,TRUE
+319,Optotriac K3021P o MOC3021,,opticos y displays,TRUE
+320,Fotodiodo IR Rx - BPW41,,opticos y displays,TRUE
+321,Fotodiodo IR Tx - TSUS5402 o LD271,,opticos y displays,TRUE
+322,Fototransistores PT334-6C,,opticos y displays,TRUE
+323,BC327 PNP,,transistores,TRUE
+324,BC337 NPN,,transistores,TRUE
+325,BC547 Transistor NPN,,transistores,TRUE
+326,BC557 Transistor PNP,,transistores,TRUE
+327,BF245,,transistores,TRUE
+328,2N1711 Transistor NPN 1A / 1 W,,transistores,TRUE
+329,2N3904 NPN switching,,transistores,TRUE
+330,2N2646 UJT,,transistores,TRUE
+331,IRF 520 MOSFET,,transistores,TRUE
+332,IRF 830 MOSFET de 5 A,,transistores,TRUE
+333,IRF 9530 MOSFET P 14A,,transistores,TRUE
+334,BS170 MOSFET N 500mA,,transistores,TRUE
+335,2N7000 MOSFET N 200mA,,transistores,TRUE
+336,IRG4BC30K IGBT,,transistores,TRUE
+337,J310 JFET 400 mA,,transistores,TRUE
+338,MPF102 JFET 20 mA,,transistores,TRUE
+339,TIP 122,,transistores,TRUE
+340,TIP 127,,transistores,TRUE
+341,TIP 29 Transistor NPN de potencia,,transistores,TRUE
+342,TIP 30 / TIP 32 Transistor PNP de potencia,,transistores,TRUE
+343,TIP 31 Transistor NPN de potencia,,transistores,TRUE
+344,KSP2222A Transistor NPN,,transistores,TRUE
+345,MJE800 Transistor de potencia Darlington,,transistores,TRUE
+346,MAC224,,tiristores,TRUE
+347,MAC8M TRIAC,,tiristores,TRUE
+348,DIAC DB3,,tiristores,TRUE
+349,MCR 100-6,,tiristores,TRUE
+350,C106M SCR,,tiristores,TRUE
+351,Parlantes 8Ohm,,parlantes y microfonos,TRUE
+352,Buzzer (zumbador),,parlantes y microfonos,TRUE
+353,Micrófonos (tipo alarma),,parlantes y microfonos,TRUE
+354,Núcleos ferrite toroidales bobinados,,"inductancias, nucleos y transformadores",TRUE
+355,Trafo 220/15 V -1A (p/programador/entrenador),,"inductancias, nucleos y transformadores",TRUE
+356,Trafo 220/15 V - 500 mA (p/proyectos),,"inductancias, nucleos y transformadores",TRUE
+357,"Trafo 220/16,6 V -1A (p/proyectos)",,"inductancias, nucleos y transformadores",TRUE
+358,Trafo 220/9 V - 1A,,"inductancias, nucleos y transformadores",TRUE
+359,"Trafo 220/9+9 V - 1,4A",,"inductancias, nucleos y transformadores",TRUE
+360,Trafo 220/12 V - 3A,,"inductancias, nucleos y transformadores",TRUE
+361,Trafo 220/18 V - 3A,,"inductancias, nucleos y transformadores",TRUE
+362,Trafo 220/12 V - 5A,,"inductancias, nucleos y transformadores",TRUE
+363,Inductancias de 1 mHy,,"inductancias, nucleos y transformadores",TRUE
+364,Inductancias de 1 mHy (CK 04),,"inductancias, nucleos y transformadores",TRUE
+365,"Inductancias de 1,5 mHy (CK 129)",,"inductancias, nucleos y transformadores",TRUE
+366,"Inductancias de 1,8 mHy (CK 62)",,"inductancias, nucleos y transformadores",TRUE
+367,Inductancias de 10 mHy (CK 68),,"inductancias, nucleos y transformadores",TRUE
+368,Inductancias de 100 mHy (CK 83) / CEC101,,"inductancias, nucleos y transformadores",TRUE
+369,Inductancias de 15 mHy (CK 72),,"inductancias, nucleos y transformadores",TRUE
+370,"Inductancias de 2,2 mHy (CK 60)",,"inductancias, nucleos y transformadores",TRUE
+371,Inductancias de 22 mHy,,"inductancias, nucleos y transformadores",TRUE
+372,Inductancias de 220 mHy,,"inductancias, nucleos y transformadores",TRUE
+373,"Inductancias de 3,3 mHy",,"inductancias, nucleos y transformadores",TRUE
+374,Inductancias de 33 mHy (CK 77),,"inductancias, nucleos y transformadores",TRUE
+375,Inductancias de 330 mHy (CK 134),,"inductancias, nucleos y transformadores",TRUE
+376,"Inductancias de 4,7 mHy (CK 20)",,"inductancias, nucleos y transformadores",TRUE
+377,Inductancias de 47 mHy,,"inductancias, nucleos y transformadores",TRUE
+378,Inductancias de 470 mHy (CK 91),,"inductancias, nucleos y transformadores",TRUE
+379,"Inductancias de 0,5 mHy",,"inductancias, nucleos y transformadores",TRUE
+380,Condensadores cerámicos de 1 mF,,capacitores,TRUE
+381,Condensadores cerámicos de 1 nF,,capacitores,TRUE
+382,"Condensadores cerámicos de 1,2 mF",,capacitores,TRUE
+383,"Condensadores cerámicos de 1,2 nF",,capacitores,TRUE
+384,"Condensadores cerámicos de 1,5 mF",,capacitores,TRUE
+385,"Condensadores cerámicos de 1,5 nF",,capacitores,TRUE
+386,"Condensadores cerámicos de 1,8 mF",,capacitores,TRUE
+387,"Condensadores cerámicos de 1,8 nF",,capacitores,TRUE
+388,Condensadores cerámicos de 10 nF,,capacitores,TRUE
+389,Condensadores cerámicos de 10 pF,,capacitores,TRUE
+390,Condensadores cerámicos de 100 nF,,capacitores,TRUE
+391,Condensadores cerámicos de 100 pF,,capacitores,TRUE
+392,Condensadores cerámicos de 12 nF,,capacitores,TRUE
+393,Condensadores cerámicos de 12 pF,,capacitores,TRUE
+394,Condensadores cerámicos de 120 nF,,capacitores,TRUE
+395,Condensadores cerámicos de 120 pF,,capacitores,TRUE
+396,Condensadores cerámicos de 15 nF,,capacitores,TRUE
+397,Condensadores cerámicos de 15 pF,,capacitores,TRUE
+398,Condensadores cerámicos de 150 nF,,capacitores,TRUE
+399,Condensadores cerámicos de 150 pF,,capacitores,TRUE
+400,"Condensadores cerámicos de 1,8 nF",,capacitores,TRUE
+401,Condensadores cerámicos de 18 nF,,capacitores,TRUE
+402,Condensadores cerámicos de 18 pF,,capacitores,TRUE
+403,Condensadores cerámicos de 180 nF,,capacitores,TRUE
+404,Condensadores cerámicos de 180 pF,,capacitores,TRUE
+405,"Condensadores cerámicos de 2,2 mF",,capacitores,TRUE
+406,"Condensadores cerámicos de 2,2 nF",,capacitores,TRUE
+407,"Condensadores cerámicos de 2,7 mF",,capacitores,TRUE
+408,"Condensadores cerámicos de 2,7 nF",,capacitores,TRUE
+409,Condensadores cerámicos de 22 nF,,capacitores,TRUE
+410,Condensadores cerámicos de 22 pF,,capacitores,TRUE
+411,Condensadores cerámicos de 220 nF,,capacitores,TRUE
+412,Condensadores cerámicos de 220 pF,,capacitores,TRUE
+413,Condensadores cerámicos de 27 nF,,capacitores,TRUE
+414,Condensadores cerámicos de 27 pF,,capacitores,TRUE
+415,Condensadores cerámicos de 270 nF,,capacitores,TRUE
+416,Condensadores cerámicos de 270 pF,,capacitores,TRUE
+417,"Condensadores cerámicos de 3,3 mF",,capacitores,TRUE
+418,"Condensadores cerámicos de 3,3 nF",,capacitores,TRUE
+419,"Condensadores cerámicos de 3,9 mF",,capacitores,TRUE
+420,"Condensadores cerámicos de 3,9 nF",,capacitores,TRUE
+421,Condensadores cerámicos de 33 nF,,capacitores,TRUE
+422,Condensadores cerámicos de 33 pF,,capacitores,TRUE
+423,Condensadores cerámicos de 330 nF,,capacitores,TRUE
+424,Condensadores cerámicos de 330 pF,,capacitores,TRUE
+425,Condensadores cerámicos de 39 nF,,capacitores,TRUE
+426,Condensadores cerámicos de 39 pF,,capacitores,TRUE
+427,Condensadores cerámicos de 390 nF,,capacitores,TRUE
+428,Condensadores cerámicos de 390 pF,,capacitores,TRUE
+429,"Condensadores cerámicos de 4,7 mF",,capacitores,TRUE
+430,"Condensadores cerámicos de 4,7 nF",,capacitores,TRUE
+431,Condensadores cerámicos de 47 nF,,capacitores,TRUE
+432,Condensadores cerámicos de 47 pF,,capacitores,TRUE
+433,Condensadores cerámicos de 470 nF,,capacitores,TRUE
+434,Condensadores cerámicos de 470 pF,,capacitores,TRUE
+435,"Condensadores cerámicos de 5,6 nF",,capacitores,TRUE
+436,Condensadores cerámicos de 56 nF,,capacitores,TRUE
+437,Condensadores cerámicos de 56 pF,,capacitores,TRUE
+438,Condensadores cerámicos de 560 nF,,capacitores,TRUE
+439,Condensadores cerámicos de 560 pF,,capacitores,TRUE
+440,"Condensadores cerámicos de 6,8 nF",,capacitores,TRUE
+441,Condensadores cerámicos de 68 nF,,capacitores,TRUE
+442,Condensadores cerámicos de 68 pF,,capacitores,TRUE
+443,Condensadores cerámicos de 680 nF,,capacitores,TRUE
+444,Condensadores cerámicos de 680 pF,,capacitores,TRUE
+445,"Condensadores cerámicos de 8,2 nF",,capacitores,TRUE
+446,Condensadores cerámicos de 82 nF,,capacitores,TRUE
+447,Condensadores cerámicos de 82 pF,,capacitores,TRUE
+448,Condensadores cerámicos de 820 nF,,capacitores,TRUE
+449,Condensadores cerámicos de 820 pF,,capacitores,TRUE
+450,Condensadores de tantalio / varios,,capacitores,TRUE
+451,Condensadores electrolíticos de 1 mF x XX,,capacitores,TRUE
+452,Condensadores electrolíticos de 10 mF x XX,,capacitores,TRUE
+453,Condensadores electrolíticos de 100 mF x XX,,capacitores,TRUE
+454,Condensadores electrolíticos de 1000 mF x XX,,capacitores,TRUE
+455,"Condensadores electrolíticos de 2,2 mF x XX",,capacitores,TRUE
+456,Condensadores electrolíticos de 22 mF x XX,,capacitores,TRUE
+457,Condensadores electrolíticos de 220 mF x XX,,capacitores,TRUE
+458,Condensadores electrolíticos de 2200 mF x XX,,capacitores,TRUE
+459,"Condensadores electrolíticos de 3,3 mF x XX",,capacitores,TRUE
+460,Condensadores electrolíticos de 33 mF x XX,,capacitores,TRUE
+461,Condensadores electrolíticos de 330 mF x XX,,capacitores,TRUE
+462,Condensadores electrolíticos de 3300 mF x XX,,capacitores,TRUE
+463,"Condensadores electrolíticos de 4,7 mF x XX",,capacitores,TRUE
+464,Condensadores electrolíticos de 47 mF x XX,,capacitores,TRUE
+465,Condensadores electrolíticos de 470 mF x XX,,capacitores,TRUE
+466,Condensadores electrolíticos de 4700 mF x XX,,capacitores,TRUE
+467,Dipswitch x 4,,"interruptores, pulsadores y reles",TRUE
+468,Dip switch x6,,"interruptores, pulsadores y reles",TRUE
+469,Dipswitch x 8,,"interruptores, pulsadores y reles",TRUE
+470,Final de carrera KW3-0Z (verde),,"interruptores, pulsadores y reles",TRUE
+471,Interruptor c/2 inversores,,"interruptores, pulsadores y reles",TRUE
+472,Interruptor inversor,,"interruptores, pulsadores y reles",TRUE
+473,Pulsadores para plaqueta (touch swith) (6x6),,"interruptores, pulsadores y reles",TRUE
+474,Pulsadores para plaqueta (touch swith) (10x10),,"interruptores, pulsadores y reles",TRUE
+475,Teclado de teclas individuales 3x4 (decimal),,"interruptores, pulsadores y reles",TRUE
+476,Teclado matricial 3x4 (negros c/flex),,"interruptores, pulsadores y reles",TRUE
+477,Teclado matricial 3x4 (negros),,"interruptores, pulsadores y reles",TRUE
+478,Rele de 24V,,"interruptores, pulsadores y reles",TRUE
+479,Relé de 12 V c/ contacto inversor,,"interruptores, pulsadores y reles",TRUE
+480,Relé de 12 V c/doble contacto inversor,,"interruptores, pulsadores y reles",TRUE
+481,Relé de 5 V c/doble contacto inversor,,"interruptores, pulsadores y reles",TRUE
+482,L293 Controlador p/motor PaP,,buffers,TRUE
+483,L297 Controlador p/motor PaP,,buffers,TRUE
+484,L298 Driver p/motor PaP de 2 A,,buffers,TRUE
+485,ULN2804 Buffer,,buffers,TRUE
+486,ULN2803 Buffer,,buffers,TRUE
+487,ULN2003,,buffers,TRUE
+488,ULN2004,,buffers,TRUE
+489,4001 Compuerta CMOS (NOR),,ci digitales,TRUE
+490,4002 Compuerta CMOS (NOR),,ci digitales,TRUE
+491,4003 Compuerta CMOS (NOR),,ci digitales,TRUE
+492,4027 Flip - flop J-K,,ci digitales,TRUE
+493,4028,,ci digitales,TRUE
+494,4029 Contador,,ci digitales,TRUE
+495,4035 Registro,,ci digitales,TRUE
+496,4040 Contador 12 bits,,ci digitales,TRUE
+497,4046 PLL,,ci digitales,TRUE
+498,4047 Oscilador,,ci digitales,TRUE
+499,4049 Buffer inversor (NOT),,ci digitales,TRUE
+500,4050 Buffer no inversor (IGUALDAD),,ci digitales,TRUE
+501,4051 Multiplex / demultiplex analógico,,ci digitales,TRUE
+502,4052 Multiplex / demultiplex analógico,,ci digitales,TRUE
+503,4060 Divisor de frecuencia,,ci digitales,TRUE
+504,4070 Compuerta CMOS (EXOR),,ci digitales,TRUE
+505,4071 Compuerta CMOS (OR),,ci digitales,TRUE
+506,4076 Flip Flop D Three State,,ci digitales,TRUE
+507,4077 Compuerta CMOS (NOR-EX),,ci digitales,TRUE
+508,4081 Compuerta CMOS (AND),,ci digitales,TRUE
+509,4090,,ci digitales,TRUE
+510,4093,,ci digitales,TRUE
+511,4094 Registro 8 bits Three State,,ci digitales,TRUE
+512,4099,,ci digitales,TRUE
+513,40106 Compuerta CMOS (NOT Trigger schmith),,ci digitales,TRUE
+514,40194,,ci digitales,TRUE
+515,4511 BDC a 7 seg.,,ci digitales,TRUE
+516,4512,,ci digitales,TRUE
+517,4514 Latch 4 bits,,ci digitales,TRUE
+518,4532 Codificador de 8 a 3,,ci digitales,TRUE
+519,4541,,ci digitales,TRUE
+520,4585 Comparador,,ci digitales,TRUE
+521,MC14076,,ci digitales,TRUE
+522,555 Oscilador,,ci digitales,TRUE
+523,CD4028BE,,ci digitales,TRUE
+524,74AC08 Compuerta (NAND),,ci digitales,TRUE
+525,74HC00,,ci digitales,TRUE
+526,74HC02,,ci digitales,TRUE
+527,74HC10,,ci digitales,TRUE
+528,74HC125,,ci digitales,TRUE
+529,74HC138 (Decodificador/Demultiplexor 3 a 8),,ci digitales,TRUE
+530,74HC174 Flip - flop D,,ci digitales,TRUE
+531,74HC139,,ci digitales,TRUE
+532,74HC1373,,ci digitales,TRUE
+533,74HC244 Buffer 8 líneas - 3 state,,ci digitales,TRUE
+534,74HC245 Latch bidireccional,,ci digitales,TRUE
+535,"74HC573 (Latch ""D"" de 3 estados Octal)",,ci digitales,TRUE
+536,74HC595,,ci digitales,TRUE
+537,74HCT04N Not,,ci digitales,TRUE
+538,74LS05 (NOT c/colector abierto),,ci digitales,TRUE
+539,74LS08 (AND de 2 entradas),,ci digitales,TRUE
+540,74LS138,,ci digitales,TRUE
+541,74LS148 Codificador de 8 a 3,,ci digitales,TRUE
+542,UM3750 codificador/decodificador programable,,ci digitales,TRUE
+543,74LS373,,ci digitales,TRUE
+544,24LC02 - Memoria EEPROM serial I2C,,ci digitales,TRUE
+545,TL494 - Controlador PWM,,ci digitales,TRUE
+546,27C512 - Memoria EPROM de 64Kx8,,ci digitales,TRUE
+547,93C46 EEPROM Serial,,ci digitales,TRUE
+548,HM6116 RAM 2K x 8 estatica,,ci digitales,TRUE
+549,MCM6256 128K x 8 RAM estatica,,ci digitales,TRUE
+550,HY51C1000LS memoria CMOS,,ci digitales,TRUE
+551,MCM14256 RAM CMOS,,ci digitales,TRUE
+552,LH21256 RAM (256x1),,ci digitales,TRUE
+553,ADC0804 Conversor analógico digital,,ci digitales,TRUE
+554,DAC0808 Conversor digital analógico,,ci digitales,TRUE
+555,Gal reprogramable 16V8 PDIP,,ci digitales,TRUE
+556,PIC 12F675,,ci digitales,TRUE
+557,PIC 12F629,,ci digitales,TRUE
+558,PIC 16C54,,ci digitales,TRUE
+559,PIC 16C58,,ci digitales,TRUE
+560,PIC 16F628,,ci digitales,TRUE
+561,PIC 16F877,,ci digitales,TRUE
+562,PIC 16F819,,ci digitales,TRUE
+563,PIC 16F886,,ci digitales,TRUE
+564,PIC 16F887,,ci digitales,TRUE
+565,PIC 18F452,,ci digitales,TRUE
+566,PIC 18F4520,,ci digitales,TRUE
+567,PIC16F1507,,ci digitales,TRUE
+568,PIC16F1519,,ci digitales,TRUE
+569,MC68HC705,,ci digitales,TRUE
+570,MC68HC908,,ci digitales,TRUE
+571,MC908QB8MPE,,ci digitales,TRUE
+572,"Cristal de 3,58Mhz",,cristales y osciladores,TRUE
+573,Cristal de 4 MHz,,cristales y osciladores,TRUE
+574,Cristal de 8 MHz,,cristales y osciladores,TRUE
+575,"Cristal de 9,803 MHz",,cristales y osciladores,TRUE
+576,Cristal de 12 MHz,,cristales y osciladores,TRUE
+577,"Cristal de 14,31818 MHz",,cristales y osciladores,TRUE
+578,Cristal de 20 MHz,,cristales y osciladores,TRUE
+579,Zócalos de 14,,zocalos,TRUE
+580,Zócalos de 16,,zocalos,TRUE
+581,Zócalos de 18,,zocalos,TRUE
+582,Zócalos de 20,,zocalos,TRUE
+583,Zócalos de 28 anchos,,zocalos,TRUE
+584,Zócalos de 28 fino,,zocalos,TRUE
+585,Zócalos de 32,,zocalos,TRUE
+586,Zócalos de 40,,zocalos,TRUE
+587,Zócalos de 6,,zocalos,TRUE
+588,Zócalos de 8,,zocalos,TRUE
+589,Zócalos PDIP 18 (patas largas),,zocalos,TRUE
+590,Zocalo Zif DIP40,,zocalos,TRUE
+591,MAX 232 (ST232CN),,"ci transmisores, receptores y modulos",TRUE
+592,75176 (RS485),,"ci transmisores, receptores y modulos",TRUE
+593,MC1496 Modulador/Demodulador Balanceado,,"ci transmisores, receptores y modulos",TRUE
+594,LM567 Decodificador de tono,,"ci transmisores, receptores y modulos",TRUE
+595,Cm8870 (codificador DTMF),,"ci transmisores, receptores y modulos",TRUE
+596,MC145436 (decodificador DTMF),,"ci transmisores, receptores y modulos",TRUE
+597,VCR OD391K - Varistor,,reguladores de tension y protecciones,TRUE
+598,DC/DC Conveter 12V-9V,,reguladores de tension y protecciones,TRUE
+599,DC/DC Conveter 5V-9V,,reguladores de tension y protecciones,TRUE
+600,MC34166T Regulador Switching,,reguladores de tension y protecciones,TRUE
+601,MC34063 Regulador Switching,,reguladores de tension y protecciones,TRUE
+602,LM 431 Reg. de tensión ajustable,,reguladores de tension y protecciones,TRUE
+603,7805 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+604,7808 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+605,7812 Reg. de tensión TO220,,reguladores de tension y protecciones,TRUE
+606,7815 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+607,7824 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+608,78L05 Reg. de tensión (500 mA) TO92,,reguladores de tension y protecciones,TRUE
+609,78L08 Reg. de tensión (500 mA) TO92,,reguladores de tension y protecciones,TRUE
+610,7905 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+611,7908 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+612,7912 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+613,7915 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+614,7924 Reg. de tensión,,reguladores de tension y protecciones,TRUE
+615,"LM 317 Reg. de Tensión de 1,2V a 37V - TO 220",,reguladores de tension y protecciones,TRUE
+616,"LM 337 Reg. Negativo -1,2V a -37V - TO 220",,reguladores de tension y protecciones,TRUE
+617,LM2596-ADJ/5V Reg. Switching,,reguladores de tension y protecciones,TRUE
+618,LM 35 Sensor de temperatura,,ci analogicos,TRUE
+619,LF 347,,ci analogicos,TRUE
+620,LM 324 Amp. Op. Cuádruple,,ci analogicos,TRUE
+621,LM 358 Amp. Op. Doble,,ci analogicos,TRUE
+622,LM 741 Amp. Op.,,ci analogicos,TRUE
+623,TL082 Amp. Op. JFET Doble,,ci analogicos,TRUE
+624,TL084 Amp. Op. JFET Cuádruple,,ci analogicos,TRUE
+625,LM385,,ci analogicos,TRUE
+626,LM339,,ci analogicos,TRUE
+627,LM 386 Amp. de audio,,ci analogicos,TRUE
+628,MC 33202 P AO rail to rail,,ci analogicos,TRUE
+629,LM 311 Comparador,,ci analogicos,TRUE
+630,LF 356 N,,ci analogicos,TRUE
+631,Conector DB25 macho c/tapas,,"conectores, borneras, terminales y fichas",TRUE
+632,Conector DB9 hembra/con tapa,,"conectores, borneras, terminales y fichas",TRUE
+633,Conector DB9 macho/con tapa,,"conectores, borneras, terminales y fichas",TRUE
+634,Tapa DB25,,"conectores, borneras, terminales y fichas",TRUE
+635,"Borneras de 2 entrada p/plaqueta 5,08 mm",,"conectores, borneras, terminales y fichas",TRUE
+636,"Borneras de 3 entrada p/plaqueta 5,08 mm",,"conectores, borneras, terminales y fichas",TRUE
+637,Cocodrilos chicos rojos,,"conectores, borneras, terminales y fichas",TRUE
+638,Cocodrilos chicos negros,,"conectores, borneras, terminales y fichas",TRUE
+639,Conector adaptador de tipo N a BNC hembra,,"conectores, borneras, terminales y fichas",TRUE
+640,Conector BNC macho con tornillo,,"conectores, borneras, terminales y fichas",TRUE
+641,Conector BNC macho para indentar,,"conectores, borneras, terminales y fichas",TRUE
+642,Conector BNC en T macho/hembra/hembra,,"conectores, borneras, terminales y fichas",TRUE
+643,Conector DB25 macho p/chasis,,"conectores, borneras, terminales y fichas",TRUE
+644,Conector DB25 macho p/placa,,"conectores, borneras, terminales y fichas",TRUE
+645,Conector DB9 Hembra p/chasis,,"conectores, borneras, terminales y fichas",TRUE
+646,Conector DB9 Macho p/chasis,,"conectores, borneras, terminales y fichas",TRUE
+647,Conector DB15 Hembra p/chasis,,"conectores, borneras, terminales y fichas",TRUE
+648,Conector DB9 hembra p/plaqueta,,"conectores, borneras, terminales y fichas",TRUE
+649,Conector DB9 macho p/plaqueta,,"conectores, borneras, terminales y fichas",TRUE
+650,Conector USB tipo B hembra para placa,,"conectores, borneras, terminales y fichas",TRUE
+651,Conector hembra p/cable plano de 40 pines (20 x 2) IDC,,"conectores, borneras, terminales y fichas",TRUE
+652,Conector IDC de 10 pines hembra p/cable plano,,"conectores, borneras, terminales y fichas",TRUE
+653,Conector IDC de 16 pines hembra p/cable plano,,"conectores, borneras, terminales y fichas",TRUE
+654,Conector IDC de 20 pines hembra p/cable plano,,"conectores, borneras, terminales y fichas",TRUE
+655,Conector IDC de 40 pines macho p/placa (20 x 2) disco duro,,"conectores, borneras, terminales y fichas",TRUE
+656,Conector IDC de 10 pines macho p/placa (5x2),,"conectores, borneras, terminales y fichas",TRUE
+657,Conector IDC de 14 pines macho p/placa (7x2),,"conectores, borneras, terminales y fichas",TRUE
+658,Conector IDC de 26 pines macho p/placa (13x2),,"conectores, borneras, terminales y fichas",TRUE
+659,conector RJ11 hembra 90º,,"conectores, borneras, terminales y fichas",TRUE
+660,conector RJ11 macho,,"conectores, borneras, terminales y fichas",TRUE
+661,conector RJ45 macho (p/ crimpear),,"conectores, borneras, terminales y fichas",TRUE
+662,Conector RJ45 90º hembra p/placa,,"conectores, borneras, terminales y fichas",TRUE
+663,Ficha banana pin fino (rojas y negras) / varias,,"conectores, borneras, terminales y fichas",TRUE
+664,Ficha banana pin grueso (rojas y negras) / varias,,"conectores, borneras, terminales y fichas",TRUE
+665,Conector hembra para armar x 40 (tira) paso 2.54mm,,"conectores, borneras, terminales y fichas",TRUE
+666,Pines hembra para conector x 40 pines (tira) paso 2.54mm,,"conectores, borneras, terminales y fichas",TRUE
+667,Pines para plaqueta macho (tira de 40) paso 2.54mm,,"conectores, borneras, terminales y fichas",TRUE
+668,Pines para plaqueta macho a 90º (tira de 40) paso 2.54mm,,"conectores, borneras, terminales y fichas",TRUE
+669,Pines para plaqueta macho (tira de 2x40-2x50) paso 2.54mm,,"conectores, borneras, terminales y fichas",TRUE
+670,DB9 Completo,,"conectores, borneras, terminales y fichas",TRUE
+671,Aisladores de silicona p/TO220,,elementos disipadores y aisladores,TRUE
+672,Aisladores de mica p/ TO220,,elementos disipadores y aisladores,TRUE
+673,Aisladores de tornillos p/TO220,,elementos disipadores y aisladores,TRUE
+674,Fusibles 100mA - 250V (20 X 5) - Puente RLC,,fusibles y portafusibles,TRUE
+675,Fusibles 200/250mA - 250V (20 X 5) - Frecuen. - Gen. de función,,fusibles y portafusibles,TRUE
+676,"Fusibles 500mA - 250V (20 X 5) - Fuente de alim. 24+24V-0,5A",,fusibles y portafusibles,TRUE
+677,Fusibles 750mA - 250V (20 X 5),,fusibles y portafusibles,TRUE
+678,Fusibles 1A - 250V (20 X 5) - Estación de desoldado / Soldadores,,fusibles y portafusibles,TRUE
+679,"Fusibles 1,5 A - 250V (20 X 5)",,fusibles y portafusibles,TRUE
+680,Fusibles 2A - 250V (20 X 5) - Tester + Fuente de alim. 0-30V,,fusibles y portafusibles,TRUE
+681,Fusibles 3A - 250V (20 X 5),,fusibles y portafusibles,TRUE
+682,Fusibles 4A - 250V (20 X 5),,fusibles y portafusibles,TRUE
+683,Fusibles 5A - 250V (20 X 5),,fusibles y portafusibles,TRUE
+684,Fusibles 6A - 250V (20 X 5) - Fuente de alim. 24V-5A,,fusibles y portafusibles,TRUE
+685,Fusibles 10A - 250V (20 X 5),,fusibles y portafusibles,TRUE
+686,Portafusibles patas H paracircuito impreso,,fusibles y portafusibles,TRUE
+687,Portafusibles de 20 mm para gabinete (con rosca),,fusibles y portafusibles,TRUE
+688,Portafusibles de 20 mm para placa con tapa,,fusibles y portafusibles,TRUE
+689,Fusible térmico,,fusibles y portafusibles,TRUE
+690,Perillas,,elementos de montaje,TRUE
+691,Cooler 12v,,motores y servomecanismos,TRUE
+692,Motores de CC,,motores y servomecanismos,TRUE
+693,Cable plano x 14 hilos x metro,,cables varios,TRUE
+694,Cable plano x 20 hilos x metro,,cables varios,TRUE
+695,Cablo plano x 26 hilos x metro,,cables varios,TRUE
+696,"Cable unipolar azul x 2,5mm2 x 100m",,cables varios,TRUE
+697,"Cable unipolar rojo x 2,5mm2 x 100m",,cables varios,TRUE
+698,"Cable unipolar marron x 2,5mm2 x 100m",,cables varios,TRUE
+699,"Cable unipolar negro x 2,5mm2 x 100m",,cables varios,TRUE
+700,"Cable unipolar verde x 2,5mm2 x 100m",,cables varios,TRUE
+701,Mouse USB Genius,,informatica,TRUE
+702,Cartucho toner Samsung M2020,,informatica,TRUE
+703,Cartucho toner Brother HL-1212W,,informatica,TRUE
+704,Mouse USB Genius (NUEVOS),,informatica,TRUE
+705,Teclado USB Genius (NUEVOS),,informatica,TRUE
+706,Puntas para multímetro (par),,electricidad/electronica,TRUE
+707,Cables para fuente veneta (par rojo/negro),,electricidad/electronica,TRUE
+708,Puntas para generador de onda (BNC - Cocodrilo),,electricidad/electronica,TRUE
+709,Cable USB AM to BM para Arduino/Entrenador,,electricidad/electronica,TRUE
+710,Cable HDMI M-M x 1mts,,electricidad/electronica,TRUE
+711,Cable VGA x 2mts,,electricidad/electronica,TRUE
+712,Puntas de osciloscopio,,electricidad/electronica,TRUE
+713,Cable USB tipo C,,electricidad/electronica,TRUE
+714,Bateria 9V,,electricidad/electronica,TRUE
+715,Pila AA (pack x 4),,electricidad/electronica,TRUE
+716,Pila AAA (pack x 4),,electricidad/electronica,TRUE
+717,Pila CR2032,,electricidad/electronica,TRUE
+718,Cinta aisladora x 10 mts,,electricidad/electronica,TRUE
+719,Adaptador 3 patas planas cruzadas a 2 pernos,,electricidad/electronica,TRUE
+720,Barra de silicona (grande),,ferreteria,TRUE
+721,Lubricante de litio Penetrit,,ferreteria,TRUE
+722,Aceite lubricante DW 40,,ferreteria,TRUE
+723,Pegamento instantaneo (La gotita),,ferreteria,TRUE
+724,Poxipol,,ferreteria,TRUE
+725,Poxiran,,ferreteria,TRUE
+726,Repuestos hojas para trincheta CHICA,,ferreteria,TRUE
+727,Repuestos hojas para trincheta GRANDE,,ferreteria,TRUE
+728,"Mecha 0,75 mm",,ferreteria,TRUE
+729,Mecha 1 mm,,ferreteria,TRUE
+730,"Mecha 1,25mm",,ferreteria,TRUE
+731,"Mecha 1,5mm",,ferreteria,TRUE
+732,Mecha 2mm,,ferreteria,TRUE
+733,Mecha 3mm,,ferreteria,TRUE
+734,Mecha 4mm,,ferreteria,TRUE
+735,"Mecha 4,25 mm",,ferreteria,TRUE
+736,"Mecha 4,75 mm",,ferreteria,TRUE
+737,Mecha 5 mm,,ferreteria,TRUE
+738,Mecha 5 mm,,ferreteria,TRUE
+739,Mecha 8 mm,,ferreteria,TRUE
+740,Mecha 10 mm,,ferreteria,TRUE
+741,Macho p/ rosca 3mm,,ferreteria,TRUE
+742,"Prensacable 3/4""",,ferreteria,TRUE
+743,"Prensacable 5/8""",,ferreteria,TRUE
+744,Precintos x 100 mm (x bolsa),,ferreteria,TRUE
+745,Precintos x 200 mm (x bolsa),,ferreteria,TRUE
+746,Precintos x 300 mm (x bolsa),,ferreteria,TRUE
+747,"Termocontraible 2,4mm de diám. (x metro)",,ferreteria,TRUE
+748,"Termocontraible 3,2mm de diám. (x metro)",,ferreteria,TRUE
+749,"Termocontraible 4,8mm de diám. (x metro)",,ferreteria,TRUE
+750,Accesorio Dremel disco de corte,,ferreteria,TRUE
+751,Accesorio Dremel punta fresadora,,ferreteria,TRUE
+752,Accesorio Dremel para pulir,,ferreteria,TRUE
+753,Accesorio bastago de disco de corte Dremel,,ferreteria,TRUE
+754,Llave de ajuste para mandril,,ferreteria,TRUE
+755,CIF o similar x 450 cm3,,libreria,TRUE
+756,Papel A4 75 gr (resma),,libreria,TRUE
+757,Fibrón indeleble Edding 400 (punta 1mm),,libreria,TRUE
+758,"Fibrón indeleble Edding 404 (punta 0,75mm)-Sharpie",,libreria,TRUE
+759,Cinta Scotch Ancha,,libreria,TRUE
+760,Cinta Scotch Fina,,libreria,TRUE
+761,Cinta de papel x 20mm,,libreria,TRUE
+762,Grampas 21/6 para abrochadora (caja x1000),,libreria,TRUE
+763,Virulana x paquete 10 unid.,,libreria,TRUE
+764,Borrador ,,libreria,TRUE
+765,Fibrón lavable Edding 360 negro,,libreria,TRUE
+766,Fibrón lavable Edding 360 rojo,,libreria,TRUE
+767,Fibrón lavable Edding 360 verde,,libreria,TRUE
+768,Fibrón lavable Edding 360 azul,,libreria,TRUE
+769,Tinta para fibrón negro,,libreria,TRUE
+770,Tinta para fibrón verde,,libreria,TRUE
+771,Tinta para fibrón rojo,,libreria,TRUE
+772,Tinta para fibrón azul,,libreria,TRUE
+773,"Rollos PLA 1,75mm (colores varios)",,impresión 3d,TRUE
+774,Alcohol etilico x 1 litro - (Electroquímica Delta),,drogueria - quimica,TRUE
+775,Alcohol isopropílico x 1 litro,,drogueria - quimica,TRUE
+776,Spray fijador ROBY (rojo) x180ml/127g,,drogueria - quimica,TRUE
+777,Malla desoldante 2mm,,proceso fabricacion circuitos impresos,TRUE
+778,"Estaño x 250 gr - 0,5mm",,proceso fabricacion circuitos impresos,TRUE
+779,"Estaño x 250 gr - 0,8mm",,proceso fabricacion circuitos impresos,TRUE
+780,Embudo,,proceso fabricacion circuitos impresos,TRUE
+781,Flux en jeringa,,proceso fabricacion circuitos impresos,TRUE
+782,Contacflux aerosol x 180 cc,,proceso fabricacion circuitos impresos,TRUE
+783,Contacmatic super verde x 230 cc,,proceso fabricacion circuitos impresos,TRUE
+784,Grasa siliconada x 100gr,,proceso fabricacion circuitos impresos,TRUE
+785,Barniz aislante para transformadores x litro,,proceso fabricacion circuitos impresos,TRUE
+786,Cajas contenedoras plásticas grandes,,proceso fabricacion circuitos impresos,TRUE
+787,Protoshield,,kits arduino,TRUE
+788,Servomotor 9g plástico,,kits arduino,TRUE
+789,Motor PaP unipolar 28BYJ-48,,kits arduino,TRUE
+790,Driver para PaP ULN2003,,kits arduino,TRUE
+791,Sensor ultrasónico HCSR04,,kits arduino,TRUE
+792,Detector de llama,,kits arduino,TRUE
+793,Módulo Relay 5V,,kits arduino,TRUE
+794,Powershield,,kits arduino,TRUE
+795,LED RGB 5mm,,kits arduino,TRUE
+796,74HC595 Registro de desplazamiento Latch,,kits arduino,TRUE
+797,Tiltsensor,,kits arduino,TRUE
+798,Sensor de lluvia,,kits arduino,TRUE
+799,Módulo micrófono,,kits arduino,TRUE
+800,Módulo sensor inrarrojo de herradura,,kits arduino,TRUE
+801,Sensor de temperatura y humedad DHT11,,kits arduino,TRUE
+802,Sensor de temperatura y humedad DHT22,,kits arduino,TRUE
+803,Portapilas 6 celdas,,kits arduino,TRUE
+804,Módulo Bluetooth HC06,,kits arduino,TRUE
+805,Módulo RFID 13.56MHz,,kits arduino,TRUE
+806,Tag RFD 13.56MHz,,kits arduino,TRUE
+807,Llavero RFID 13.56MHz,,kits arduino,TRUE
+808,Control remoto IR,,kits arduino,TRUE
+809,Módulo Joystick,,kits arduino,TRUE
+810,Módulo RTC DS1302,,kits arduino,TRUE
+811,Módulo teclado x16 pulsadores,,kits arduino,TRUE
+812,Shield Ethernet,,kits arduino,TRUE
+813,Shield driver L293D + Servo,,kits arduino,TRUE
+814,Motor POLOLU,,kits arduino,TRUE
+815,Módulo driver L9110,,kits arduino,TRUE
+816,Módulo driver L298N,,kits arduino,TRUE
+817,PT100,,kits arduino,TRUE
+818,Módulo cargador de bat. de litio TP4056,,kits arduino,TRUE
+819,Módulo lector SD,,kits arduino,TRUE
+820,Módulo A4988 driver PaP,,kits arduino,TRUE
+821,Bomba de agua EM20-0343 5V,,kits arduino,TRUE
+822,Fuente lm2596,,kits arduino,TRUE
+823,cable rojo,,cables,FALSE
+824,cable negro,,cables,FALSE
+825,470,,potenciómetros,FALSE
+826,4k7,,potenciómetros,FALSE
+827,47k,,potenciómetros,FALSE
+828,1k,,potenciómetros,FALSE
+829,10k,,potenciómetros,FALSE
+830,100k,,potenciómetros,FALSE
+831,22k,,potenciómetros,FALSE
+832,2M2,,potenciómetros,FALSE
+833,led,,varios,FALSE
+834,pulsador,,varios,FALSE
+835,foto res,,varios,FALSE
+836,foto trans,,varios,FALSE
+837,lampara 12v,,varios,FALSE
+838,vjt 2n2646,,varios,FALSE
+839,pnp 2n2905,,varios,FALSE
+840,npn 2n1711,,varios,FALSE
+841,npn bc182,,varios,FALSE
+842,fet bf245,,varios,FALSE
+843,scr tic47,,varios,FALSE
+844,R.P 7w 220r,,varios,FALSE
+845,R.P 7w 47r,,varios,FALSE
+846,R.P 7w 1r,,varios,FALSE
+847,R.P 5w 4r7,,varios,FALSE
+848,tda2006,,varios,FALSE
+849,ua7805,,varios,FALSE
+850,lm 317,,varios,FALSE
+851,ua741,,varios,FALSE
+852,ne555,,varios,FALSE
+853,ptc/ntc,,varios,FALSE
+854,1n4007,,diodos,FALSE
+855,1n914,,diodos,FALSE
+856,0a91,,diodos,FALSE
+857,"Z. 6,2v",,diodos,FALSE
+858,DIAC,,diodos,FALSE
+859,"1,5r",,resistencias maletines componentes,FALSE
+860,"4,7r",,resistencias maletines componentes,FALSE
+861,10r,,resistencias maletines componentes,FALSE
+862,100r,,resistencias maletines componentes,FALSE
+863,180r,,resistencias maletines componentes,FALSE
+864,220r,,resistencias maletines componentes,FALSE
+865,330r,,resistencias maletines componentes,FALSE
+866,560r,,resistencias maletines componentes,FALSE
+867,820r,,resistencias maletines componentes,FALSE
+868,1k,,resistencias maletines componentes,FALSE
+869,1k5,,resistencias maletines componentes,FALSE
+870,2k2,,resistencias maletines componentes,FALSE
+871,3k3,,resistencias maletines componentes,FALSE
+872,3k9,,resistencias maletines componentes,FALSE
+873,4k7,,resistencias maletines componentes,FALSE
+874,5k6,,resistencias maletines componentes,FALSE
+875,10k,,resistencias maletines componentes,FALSE
+876,15k,,resistencias maletines componentes,FALSE
+877,22k,,resistencias maletines componentes,FALSE
+878,27k,,resistencias maletines componentes,FALSE
+879,33k,,resistencias maletines componentes,FALSE
+880,39k,,resistencias maletines componentes,FALSE
+881,47k,,resistencias maletines componentes,FALSE
+882,100k,,resistencias maletines componentes,FALSE
+883,120k,,resistencias maletines componentes,FALSE
+884,220k,,resistencias maletines componentes,FALSE
+885,470k,,resistencias maletines componentes,FALSE
+886,1M,,resistencias maletines componentes,FALSE
+887,1uf,,capacitores electrolíticos,FALSE
+888,"2,2uf",,capacitores electrolíticos,FALSE
+889,10uf,,capacitores electrolíticos,FALSE
+890,22uf,,capacitores electrolíticos,FALSE
+891,100uf,,capacitores electrolíticos,FALSE
+892,470uf,,capacitores electrolíticos,FALSE
+893,1000uf,,capacitores electrolíticos,FALSE
+894,1nf,,capacitores varios,FALSE
+895,"2,2nf",,capacitores varios,FALSE
+896,"4,7nf",,capacitores varios,FALSE
+897,10nf,,capacitores varios,FALSE
+898,10pf,,capacitores varios,FALSE
+899,47pf,,capacitores varios,FALSE
+900,82pf,,capacitores varios,FALSE
+901,560pf,,capacitores varios,FALSE
+902,470pf,,capacitores varios,FALSE
+903,"0,1uf",,capacitores varios,FALSE
+904,1uf,,capacitores varios,FALSE
+905,"0,33uf",,capacitores varios,FALSE
+906,270pf,,capacitores varios,FALSE
+907,22nf,,capacitores varios,FALSE
+908,Destornillador cruz pequeño 383 3.0x60,,maletines,FALSE
+909,Destornillador cruz mediano 383 4.5x80,,maletines,FALSE
+910,Destornillador plano pequeño 383 3.0x75,,maletines,FALSE
+911,Destornillador plano mediano 383 4.0x100,,maletines,FALSE
+912,Destornillador plano grande 383 5.5x150,,maletines,FALSE
+913,Pinza pelacable 292,,maletines,FALSE
+914,Tijera 296,,maletines,FALSE
+915,Pinza prensa cable 286,,maletines,FALSE
+916,Alicate de punta 341,,maletines,FALSE
+917,Pinza plana 301,,maletines,FALSE
+918,Pinza punta 282,,maletines,FALSE
+919,Pinza pequeña para levantar ep2a,,maletines,FALSE
+920,TIP 41C,,repuestos,FALSE
+921,TIP35C,,repuestos,FALSE
+922,Potenciometro lineal para gabinete 20kΩ,,repuestos,FALSE
+923,Potenciometro lineal para gabinete 1kΩ,,repuestos,FALSE
+924,Puente diodo 4A KBU4G o KBL10,,repuestos,FALSE
+925,Puente diodo 4A,CD-DF410S,repuestos,FALSE
+926,PIC18F4520 TQFP,PIC18F4520-I/PT-ND,repuestos,FALSE
+927,Inductancia 68uH 1A SMD,SDE0604A-680KCT-ND,repuestos,FALSE
+928,"Inductancia 150uH 2,2A SMD",SRR1210-151MCT-ND,repuestos,FALSE
+929,"Inductancia 22uH 2,3A SMD",490-10818-1-ND,repuestos,FALSE
+930,Micro Rele 12v 2A,399-10996-1-ND,repuestos,FALSE
+931,"Display 7seg 0,56'' rojo SMD",754-1049-1-ND,repuestos,FALSE
+932,Led rojo SMD,475-1191-1-ND,repuestos,FALSE
+933,Sensor corriente INA168,296-36536-1-ND,repuestos,FALSE
+934,LM321,LM321MFX/NOPBCT-ND,repuestos,FALSE
+935,Transistor MMBT2222,MMBT2222ALT1G0SCT-ND,repuestos,FALSE
+936,Diodo Schottky 500mA 30V,NSR0530HT1GOSCT-ND,repuestos,FALSE
+937,"KF33BDT reg LDO 3,3V 500mA",497-1148-1-ND,repuestos,FALSE
+938,LM2576 reg -12V,296-35394-1-ND,repuestos,FALSE
+939,"LM2576 reg 3,3V",LM2576D2TR4-3.3GOSCT-ND,repuestos,FALSE
+940,LM2576 reg 5V,LM2576D2TR4-5GOSCT-ND,repuestos,FALSE
+941,LM2576 reg 12V,LM2576D2TR4-012GOSCT-ND,repuestos,FALSE
+942,LM2576 reg ADJ,LM2576D2T-ADJR4GOSCT-ND,repuestos,FALSE
+943,"Capacitor 2,2uF 35V",732-8402-1-ND,repuestos,FALSE
+944,Resistencias 1KΩ - 1/2w - 1206,,repuestos,FALSE
+945,Resistencias 0Ω - 1/4w - 1206,,repuestos,FALSE
+946,"Resistencias 1,8KΩ - 1/2w - 1206",,repuestos,FALSE
+947,Resistencias 22Ω - 1/2w - 1206,,repuestos,FALSE
+948,Resistencias 470Ω - 1/2w - 1206,,repuestos,FALSE
+949,Resistencias 1KΩ - 1/2w - 1206,,repuestos,FALSE
+950,Resistencias 1MΩ - 1/2w - 1206,,repuestos,FALSE
+951,Resistencias 100Ω - 1/2w - 1206,,repuestos,FALSE
+952,Resistencias 68KΩ - 1/2w - 1206,,repuestos,FALSE
+953,"Resistencias 3,3KΩ - 1/2w - 1206",,repuestos,FALSE
+954,Resistencias 680Ω - 1/2w - 1206,,repuestos,FALSE
+955,"Resistencias 4,7KΩ - 1/2w - 1206",,repuestos,FALSE
+956,Resistencias 47Ω - 1/2w - 1206,,repuestos,FALSE
+957,Capacitor 100nF - 1206,,repuestos,FALSE
+958,Placas PCB Fuente V2,,repuestos,FALSE
+959,"Display 7seg 0,56'' Doble catodo comun",,repuestos,FALSE
+960,Banco de trabajo,,equipos,TRUE
+961,AACC Surrey 4500 Frig,,equipos,TRUE
+962,Calefactor,,equipos,TRUE
+963,Taburete fijo negro,,equipos,TRUE
+964,Taburete giratorio con respaldar (negros),,equipos,TRUE
+965,Mesa de madera,,equipos,TRUE
+966,Mesada de mármol con bacha metálica,,equipos,TRUE
+967,Mueble de madera,,equipos,TRUE
+968,Televisor SmartTV TCL 49'',,equipos,TRUE
+969,Gabinete Telecom BTS,,equipos,TRUE
+970,"Fuente de alimentación 1,3-32V/3,3/5/12/24",,equipos,TRUE
+971,"CPU + Monitor Led 19"" + multimedia + disco + Grabadora DVD + teclado + mouse",,equipos,TRUE
+972,"CPU Intel I3 - 3250 - 4 GB RAM + Monitor Led 18,5""+ multimedia + disco 500GB+
+ Grabadora DVD + teclado + mouse",,equipos,TRUE
+973,Impresora Laser Samsung M2020,,equipos,TRUE
+974,Mandril adaptador para mechas chicas con 3 accesorios p/taladro DREMEL,,equipos,TRUE
+975,Taladro de banco c/llave de ajuste,,equipos,TRUE
+976,Taladro Dremel Multipro,,equipos,TRUE
+977,Dremel work station,,equipos,TRUE
+978,Lupa,,equipos,TRUE
+979,Morsa tamaño 0,,equipos,TRUE
+980,Morsa tamaño 4,,equipos,TRUE
+981,Sensor de proximidad inductivo,3RG4023-0AG01,equipos,TRUE
+982,Sensor de proximidad inductivo,3RG4012-3AG33,equipos,TRUE
+983,Sensor IR emisor,5WG1 425-7AB21,equipos,TRUE
+984,Sensor IR receptor,5WG1 440-7AB01,equipos,TRUE
+985,Sonar,3RG6044-3MM00,equipos,TRUE
+986,Sonar,3RG6125-3BF00,equipos,TRUE
+987,Sonar,3RG6013-3AD00,equipos,TRUE
+988,Sensor Inductivo,3RG-4014-3AG01,equipos,TRUE
+989,Sensor Inductivo,3RG-4013-3AG33,equipos,TRUE
+990,Sensor Inductivo,3RG-4070-3AG01,equipos,TRUE
+991,Sensor óptico,3RG-637121-3AA00,equipos,TRUE
+992,Final de carrera,3SE120-1V,equipos,TRUE
+993,Baliza triple,8WD4 308-0AA,equipos,TRUE
+994,Baliza simple,8WD5 300-1AB,equipos,TRUE
+995,Baliza simple de repuesto,,equipos,TRUE
+996,Variac 0 a 220 V - 1 A,,equipos,TRUE
+997,"Motor trifásico 3CV 2,2KW","3CV 2,2KW",equipos,TRUE
+998,"Motor trifásico 0,5HP-Altium",TE2A712P4,equipos,TRUE
+999,Fuente de alimentacion,24V 40A,equipos,TRUE
+1000,Variador de velocidad,6SE-3213-6CA40,equipos,TRUE
+1001,Variador de velocidad,6SE-6410-2UB13-7AA0,equipos,TRUE
+1002,Moto reductores SIEMENS,,equipos,TRUE
+1003,Tablero amarillo con contactores y termomagnética,,equipos,TRUE
+1004,Cable canal ranurado 40x60 (tira),,equipos,TRUE
+1005,"PC-Duron 1,2 GHz - 512 Mb RAM - 40 Gb Disco - CD - 3 1/2 - Monitor 15""",,equipos,TRUE
+1006,Caja de cables unipolares varias medidas y colores,,equipos,TRUE
+1007,Termica 4x10A,,equipos,TRUE
+1008,Temporizador para riel DIN c/zócalo,,equipos,TRUE
+1009,Contactos auxiliares para contactor (NC),,equipos,TRUE
+1010,Tabaquera con fusible para riel DIN,,equipos,TRUE
+1011,Borneras Zoloda,,equipos,TRUE
+1012,Calentador,,equipos,TRUE
+1013,Pecera,,equipos,TRUE
+1014,Bomba de aire,,equipos,TRUE
+1015,Luz UV,,equipos,TRUE
+1016,Bandeja para ataque químico de PCB,,equipos,TRUE
+1017,Bandeja para agua,,equipos,TRUE
+1018,Armario metálico con 6 compartimientos individuales,,lockers,FALSE
+1019,Kit de destornilladores Stanley x 6,,lockers,FALSE
+1020,Osciloscopio digital Tektronic TDS224 (100 MHz 4 canales) c/4 puntas - Manuales,,lockers,FALSE
+1021,Osciloscopio digital 100 MHz; 1Gsample; conectividad USB. Mod: Gw INSTEK GDS-1102A,,lockers,FALSE
+1022,Osciloscopio digital 100 MHz; 1Gsample; conectividad USB. Mod: Gw INSTEK GDS-1102A-U,,lockers,FALSE
+1023,Puntas de osciloscopio,,lockers,FALSE
+1024,Puntas de fuentes banana-cocodrilo (par rojo y negro),,lockers,FALSE
+1025,Pinza de punta Proskit 8PK-102D,,lockers,FALSE
+1026,Multímetro UT33A,,lockers,FALSE
+1027,Alicate Proskit 8PK-101D,,lockers,FALSE
+1028,"Borneras p/2,5mm - para riel DIN",,armario,FALSE
+1029,"Borneras p/1,5mm - para riel DIN",,armario,FALSE
+1030,Luz piloto verde Φ22 - 220v,,armario,FALSE
+1031,Luz piloto roja Φ22 - 220v,,armario,FALSE
+1032,Luz piloto verde Φ22 - 24v,,armario,FALSE
+1033,Luz piloto roja Φ22 - 24v,,armario,FALSE
+1034,Pulsador NC,,armario,FALSE
+1035,Pulsador NA,,armario,FALSE
+1036,Manguera neumática con pico,,armario,FALSE
+1037,Tableros para PLC 220V,,armario,FALSE
+1038,Tableros para PLC 24V,,armario,FALSE
+1039,Contactor auxiliar,3RH1921-1FE22,armario,FALSE
+1040,Contactores ,3RT1024-1AF00,armario,FALSE
+1041,Contactores ,3RT10241-1AQ00,armario,FALSE
+1042,Contactores ,1016-1AF02(NC),armario,FALSE
+1043,Contactores ,3RT1015-1AF01(NO),armario,FALSE
+1044,Contactores ,3TF4311-0A,armario,FALSE
+1045,Fichas macho para trifasica,///,armario,FALSE
+1046,PLC !Logo,0BA8,armario,FALSE
+1047,Módulo de expansión analógico,GES7 231-7PD22-0XA0,armario,FALSE
+1048,Rele térmico,3UA5500-2A,armario,FALSE
+1049,Unidad de evaluacion para proteccion,3RB2383-4AA1,armario,FALSE
+1050,Guarda motor,3VU1300-0MK00,armario,FALSE
+1051,Temporizador neumático,3TX4092-0A,armario,FALSE
+1052,Transformadores de corriente,4NF0113-2BC2,armario,FALSE
+1053,Rele para riel din,3RQ318-1AE00,armario,FALSE
+1054,Plancha para circuitos impresos 20x20,,armario,FALSE
+1055,Pistola calor Stanley 1800w STXH2000,,armario,FALSE
+1056,Sierra p/plaqueta (2 grandes + 1 chica),,armario,FALSE
+1057,Hoja de sierra 24 dpp,,armario,FALSE
+1058,Lima fina plana,,armario,FALSE
+1059,Lima de desvaste plana,,armario,FALSE
+1060,Lima triangular,,armario,FALSE
+1061,Lima redonda,,armario,FALSE
+1062,Martillo,,armario,FALSE
+1063,Cepillo p/limas,,armario,FALSE
+1064,Acido cloruro férrico x 500mL,,armario,FALSE
+1065,Polvo removedor bolsa,,armario,FALSE
+1066,Polvo revelador bolsa,,armario,FALSE
+1067,Embudo ,,armario,FALSE
+1068,Plancha eléctrica para PCB,,armario,FALSE
+1069,Rodillos,,armario,FALSE
+1070,Papel fotosensible,,armario,FALSE
+1071,"Tubo de mechas (0,75 - 1 - 1,25 - 2)",,armario,FALSE
+1072,Lijas varias,,armario,FALSE
+1073,Cinta papel,,armario,FALSE
+1074,Virulana,,armario,FALSE
+1075,Disipadores para TO-220 + varios,,armario,FALSE
+1076,Resistencias de carga 25Ω - 20 W c/disipador y cooler,,armario,FALSE
+1077,Resistencia de carga 27Ω 15w 1%,,armario,FALSE
+1078,Resistencia de carga 15Ω 2w 1%,,armario,FALSE
+1079,Resistencia de carga 68Ω 10w 1%,,armario,FALSE
+1080,Resistencia de carga 100Ω 5w 1%,,armario,FALSE
+1081,Resistencia de carga 39Ω 5w 1%,,armario,FALSE
+1082,Resistencia de carga 15Ω 5w 1%,,armario,FALSE
+1083,"Resistencia de carga 0,475Ω 10w 1%",,armario,FALSE
+1084,Resistencia de carga 10Ω 5w 1%,,armario,FALSE
+1085,"Resistencia de carga 0,82Ω 5w 1%",,armario,FALSE

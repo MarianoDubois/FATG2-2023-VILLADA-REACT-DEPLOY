@@ -1,0 +1,58 @@
+.carousel-container {
+  overflow: hidden;
+  margin-top: 2rem;
+  max-width: 2169px; /* Set your desired maximum width */
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 7rem;
+}
+
+.carousel-container img {
+  object-fit: cover;
+  max-height: 100%;
+  width: 100%;
+}
+
+.carousel-container .carousel-item img {
+  height: 400px; /* Set your desired fixed height */
+}
+
+.margen {
+  margin-top: 2rem; /* Adjust the value based on the height of your navbar */
+}
+
+/* You might need media queries to adjust the margin for smaller screens */
+@media (max-width: 767px) {
+  .margen {
+    margin-top: 2rem; /* Adjust the value for smaller screens */
+  }
+  .carousel-container {
+    overflow: hidden;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 7rem;
+  }
+  
+  .carousel-container img {
+    object-fit: cover;
+    max-height: 100%;
+    width: 100%;
+  }
+  
+  .carousel-container .carousel-item img {
+    height: 700px; /* Set your desired fixed height */
+  }
+  
+}
+
+.margenasos {
+  margin: 10px;
+}
+
+/* Center the text and clock content */
+.carousel-container .carousel-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

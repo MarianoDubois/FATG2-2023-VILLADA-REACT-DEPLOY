@@ -1,0 +1,49 @@
+.table th {
+    font-size: 12px; /* Adjust the font size as needed */
+  }
+  
+  
+
+@media only screen and (max-width: 540px) {
+    .label-responsive{
+      display:none;
+    }
+    .btn-resp{
+      width: 4rem;
+      font-size: x-small;
+      padding: 0%;
+    }
+  }
+
+  @media only screen and (max-width: 380px) {
+    .label-responsive{
+      display:none;
+    }
+  
+    .btn-resp{
+      width: 80%;
+      font-size: xx-small;
+      padding: 0%;
+    }
+    .iconardos{
+      width: 30%
+    }
+  }
+
+  @media only screen and (max-width: 435px) {
+    .label-responsive{
+      display:none;
+    }
+    .nombre-responsive{
+      font-size: small;
+    
+    }
+    .btn-resp{
+      width: 80%;
+      font-size: xx-small;
+      padding: 0%;
+    }
+    .iconardos{
+      width: 30%
+    }
+  }

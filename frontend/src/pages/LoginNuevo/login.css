@@ -1,0 +1,95 @@
+/* Login css */
+.login-heading {
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.logo {
+width: 150px;
+height: auto;
+max-width: 100%;
+top:0; 
+left:0;
+}
+
+.color {
+color: #2E5266;
+}
+
+.top-left-image {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+z-index: 100;
+}
+
+.centered-form {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 3rem;
+}
+
+.input-styleado {
+height: 3rem;
+width: 22rem;
+background-color: rgba(255, 255, 255, 0.5);
+border: 1px solid #2E5266;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.input-styleado:focus {
+  border: 1px solid #2E5266;
+  transition: 0 none;
+  outline: 0 none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.input-styleado::placeholder {
+  color: rgba(46, 82, 102, 0.5);
+}
+
+.button-style {
+font-size: 0.938rem;
+background-color: #58A4B0;
+border: none;
+width: 9.813rem;
+height: 2.5rem;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.button-style:hover {
+  background-color: #528e97;
+}
+
+.font-family {
+  font-family: Roboto, sans-serif;
+}
+
+/* Logout css */
+
+.input-styleado.custom-checkbox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  border-radius: 0.4rem;
+}
+
+.input-styleado.custom-checkbox input[type="checkbox"] {
+  width: 1rem;
+  height: 1rem;
+  border: 1px solid #2E5266;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.input-styleado.custom-checkbox input[type="checkbox"]:checked {
+  background-color: #58A4B0;
+  border-color: #58A4B0;
+  cursor: pointer;
+}
+
+

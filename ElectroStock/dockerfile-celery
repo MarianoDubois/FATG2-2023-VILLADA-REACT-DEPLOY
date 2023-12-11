@@ -1,0 +1,30 @@
+FROM ubuntu:latest
+FROM python:3.8-bullseye
+
+
+RUN apt update && apt upgrade -y && apt install libssl-dev openssl make gcc -y && apt install wget -y && apt install systemctl -y
+#RUN apt install libssl-dev libffi-dev libncurses5-dev zlib1g zlib1g-dev libreadline-dev libbz2-dev libsqlite3-dev make gcc -y
+#RUN cd  /opt
+#RUN wget https://www.python.org/ftp/python/3.8.18/Python-3.8.18.tgz
+#RUN tar xzvf Python-3.8.18.tgz
+#RUN cd Python-3.8.18 && ./configure && make && make install
+
+
+RUN apt install rabbitmq-server -y 
+RUN systemctl start rabbitmq-server
+RUN systemctl restart rabbitmq-server
+
+WORKDIR /ElectroStock
+
+RUN apt install python3-pip -y
+COPY requirements.txt requirements.txt
+RUN pip install -r requirements.txt
+
+COPY . .
+
+RUN systemctl start rabbitmq-server
+RUN systemctl restart rabbitmq-server
+
+EXPOSE 5672
+
+CMD ["celery", "-A", "ElectroStock", "worker", "--beat", "--loglevel=info"]

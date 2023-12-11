@@ -1,0 +1,64 @@
+@media (max-width: 2000px) {
+.input-style {
+    height: 2rem;
+    width: 90%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: none;
+    margin-right: 10rem;
+    
+}
+.input-style:focus {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: none;
+}
+
+.quantity-style {
+    width: 100%;
+    margin-left: 3rem;
+}
+}
+
+
+
+@media (max-width: 767px) {
+    .input-style {
+        height: 2rem;
+        width: 50%;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        box-shadow: none;
+        margin-right: 150px;
+    }
+
+
+
+    .quantity-style {
+        width: calc(50% - 0.5rem); /* Adjust as needed, accounting for the margin */
+        
+    }
+}
+
+@media (max-width: 575px) {
+    .input-style {
+        height: 2rem;
+        max-width: 90%;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        box-shadow: none;
+        margin-right: 150px;
+    }
+
+    .quantity-style {
+        width: 100%;
+        margin-top: 0.5rem; /* Add some space between the inputs */
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 300px) {
+    .input-style {
+        height: 2rem;
+        max-width: 90%;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        box-shadow: none;
+        margin-right: 0;
+    }
+}

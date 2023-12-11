@@ -1,0 +1,45 @@
+/* NotificationsDropdown.css */
+.notifications-dropdown {
+    
+  width: 400px; /* ajusta el ancho según tus preferencias */
+  max-height: 400px; /* ajusta la altura máxima según tus preferencias */
+  overflow-y: auto;
+  background-color: white;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 1000; /* asegura que esté sobre otros elementos */
+  top: 64px; /* ajusta la distancia desde la parte superior según tu barra de navegación */
+ ; /* ajusta la distancia desde la derecha según tus preferencias */
+  
+}
+
+/* ... (estilos existentes) */
+.container-relative {
+  position: relative;
+}  
+/* NotificationsDropdown.css */
+
+.unread-notification {
+  background-color: #e6f7ff; /* Change the background color as per your design */
+
+}
+
+.read-notification {
+background-color: #ffffff; /* White background for read notifications */
+}
+
+.notificacionardas {
+padding-inline: 1rem;
+display: block; /* Add this line to override the display property */
+width: 100%; /* Ensure the text takes up the full width available */
+text-decoration: none !important;
+outline: none;
+overflow: hidden; /* Hide any overflow beyond the width */
+text-overflow: ellipsis; /* Display an ellipsis (...) for overflow text */
+}
+
+/* Update the styles for the description element */
+.ant-list-item-meta-description {
+white-space: pre-line; /* Preserve line breaks in the description */
+}

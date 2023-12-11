@@ -1,0 +1,125 @@
+html, body {
+  background-color: #ebebeb !important;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content:flex-end ;
+  margin: 0;
+  padding: 0;
+  background: #2E5266;
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: 100;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.div-autocomplete {
+  height: 20px;
+  margin-bottom: 2rem;
+}
+
+.sidebar {
+  height: 100vh;
+  background: white;
+  position: fixed;
+  left: 0;
+  top: 64px;
+  z-index: 100;
+  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.2);
+}
+
+.search-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2E5266;
+  border-color: rgba(235, 235, 235, 0.5);
+  border-radius: auto;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+
+
+.centered-column {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.div-form {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.div-buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  background-color: transparent;
+  border: none;
+  color: transparent;
+  padding: 16px 32px;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 10px;
+  height: auto;
+}
+
+.button:hover {
+  background-color: rgba(64, 107, 131);
+}
+
+.logo-img {
+  width: 150px;
+}
+/* Estilo para pantallas pequeñas */
+/* Estilo para pantallas pequeñas */
+@media (min-width: 200px) {
+  .search-input {
+    width: 5rem; /* Ajusta el ancho según tus preferencias */
+    max-width: 100%; /* Se ajusta al ancho de su contenedor */
+    padding: 5px; /* Puedes ajustar este valor según tus preferencias */
+    font-size: 14px; /* Tamaño de fuente más pequeño */
+  }
+}
+.SearchVisit{
+  padding-top: 5px;
+
+}
+
+
+.botonesnav{
+  justify-content: end;
+}
+
+.botonesnav{
+  justify-content: start;
+}
+
+.divisorsaso{
+  margin: 1rem;
+}
+
+.last-elements-sidebar {
+  position: absolute;
+  bottom: 70px;
+  left: 0;
+  width: 100%;
+  padding-left: 24px;
+}

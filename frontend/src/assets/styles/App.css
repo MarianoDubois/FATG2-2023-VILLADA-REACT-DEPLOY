@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(220, 230, 230);
+}
+
+.container .pagecontainer{
+    margin-top: 6rem;
+    margin-left: 4rem;
+    align-items: center;
+}
+
+.blue-its{
+    background-color: #2e5266;
+    border-color: #2e5266;
+}
+
+.sub-blue-its{
+    background-color: #018195;
+    border-color: #018195;
+}
+
+.btn-warning{
+    background-color: #FFCA42;
+    border-color:#FFCA42;
+}
+.btn-success{
+    background-color: #3BB273;
+    border-color:#3BB273;
+}

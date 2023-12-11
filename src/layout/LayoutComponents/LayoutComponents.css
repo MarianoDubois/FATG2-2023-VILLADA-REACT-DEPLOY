@@ -1,8 +1,0 @@
-html, body {
-    background-color: whitesmoke !important;
-  }
-
-.search-input::placeholder {
-    color: white;
-}
-

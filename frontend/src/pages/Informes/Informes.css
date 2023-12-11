@@ -1,0 +1,68 @@
+.text-dark-black{
+    color:rgb(61, 61, 61);
+}
+
+.subheader{
+    font-size: 0.8rem;
+}
+
+.margin-span{
+    margin-left: 2rem;
+}
+
+.font-bold {
+    font-weight: bold;
+  }
+
+.blue-its{
+    background-color: #2e5266;
+}
+
+.list-group-item.active{
+    background-color: #018195;
+    border-color:transparent;
+    color: white;
+}
+
+.num{
+    font-size: 1.5rem;
+    color:#2E5266;
+    font-family: "Roboto Mono";
+    text-align: left;
+    vertical-align: bottom; 
+}
+
+.container {
+    z-index: 10;
+  }
+
+.wide{
+    width: 100%;
+}
+
+.icono-tasa{
+    text-align: right;
+    vertical-align: top;
+    margin-left: 90%;
+}
+
+.custom-subtitle {
+    margin-top: 5px; /* Puedes ajustar este valor según tus preferencias */
+  }
+  
+.customCard {
+    border-radius: 6px;
+    width: 95%;
+    height: 60px;
+    margin-top: 25px;
+  }
+  
+  .white-text {
+    color: white !important;
+    background-color: #018195;
+}
+
+.no-margin-pad{
+    padding-top: 0%;
+    margin-top: 0%;
+}

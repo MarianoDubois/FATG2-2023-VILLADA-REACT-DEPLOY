@@ -1,0 +1,56 @@
+id,name,laboratory
+1,A1,1
+2,M5,1
+3,A2,1
+4,Depósito,1
+5,A3,1
+6,C1-C5,1
+7,C3,1
+8,Caja htas,1
+9,D7,1
+10,Estante,1
+11,Laboratorio,1
+12,M1,1
+13,M1- M5 ,1
+14,M1-M12,1
+15,M1-M6 y A2,1
+16,M2,1
+17,M3,1
+18,M6 ,1
+19,M4,1
+20,M6 - M12,1
+21,M7-M12,1
+22,Mesa 13 LAB 1,1
+23,Mesa 13 - Caja htas,1
+24,Mesa 14 LAB 1,1
+25,Mesas,1
+26,Mesas - Cajón Herramientas,1
+27,Mesas - Cajón Programación,1
+28,Mesas 1-12,1
+29,C2,1
+30,C1,1
+31,C4,1
+32,D13,1
+33,D14,1
+34,C5,1
+35,Caja htas+A3,1
+36,M13,1
+37,M14,1	
+38,Laboratorio 1,1
+39,LAB 1,1
+40,LAB 2,2
+41,M1 - M12,2
+42,Mesa 13 LAB 2,2
+43,Mesa de perforación,2
+44,Maletin inductivo M14,2
+45,Maletin capacitivo M14,2
+46,Maletin M14,2
+47,Mesa 14 LAB 2,2
+48,Maqueta tablero amarillo,2
+49,Mesa mármol,2
+50,Laboratorio 2,2
+51,Sector ELEC. IND.2,2
+52,Sector ELEC.IND.2,2
+53,Sector INF.ELEC.2,2
+54,Cajón,2
+55,Sector ELECTROTEC.2,2

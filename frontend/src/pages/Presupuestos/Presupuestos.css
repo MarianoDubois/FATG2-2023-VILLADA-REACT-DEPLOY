@@ -1,0 +1,15 @@
+.hover-scale {
+    display: inline-block; /* Para que el contenedor ocupe solo el espacio del contenido */
+    transition: transform 0.3s; /* Transición suave de 0.3 segundos para el efecto */
+  }
+  
+  .hover-scale:hover {
+    transform: scale(1.1); /* Aumenta el tamaño en un 10% (puedes ajustar este valor) */
+    cursor: pointer; /* Cambia el cursor a una mano para indicar que es interactivo */
+  }
+
+/* CSS to limit the container width */
+.container {
+  max-width: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}

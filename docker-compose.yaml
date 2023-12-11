@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: dockerfile-frontend
+    ports:
+      - "3000:3000"
+
+  backend:
+    build:
+      context: ./ElectroStock
+      dockerfile: dockerfile-backend
+    ports:
+      - "8000:8000"
+
+  celery:
+    build:
+      context: ./ElectroStock
+      dockerfile: dockerfile-celery
+    ports:
+      - "5673:5672"

@@ -1,0 +1,106 @@
+.word-list {
+  background-color: #f9fafb;
+  padding: 2rem;
+  width: 300px;
+  position: fixed;
+  top: 100px;
+  left: 6rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+ul {
+  padding: 0;
+}
+
+.word-list h2 {
+  margin-top: 0;
+  font-size: 1.6rem;
+  color: #333;
+}
+
+.word-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.word-list li {
+  margin-bottom: 12px;
+  font-size: 1.4rem;
+  color: #555;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.word-list li:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.word-list li:hover {
+  background-color: #f0f0f0;
+}
+
+
+/* Estilos para la lista de categorías padre */
+.word-list {
+  font-family: Arial, sans-serif;
+}
+
+.word-list h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.word-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.word-list li {
+  margin-bottom: 10px;
+}
+
+/* Estilos para los dropdowns */
+.dropdown-header {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown-content.expanded {
+  display: block;
+}
+
+/* Estilos para las flechitas */
+.dropdown-header::after {
+  content: '▼';
+  margin-left: 5px;
+}
+
+.dropdown-content.expanded + .dropdown-header::after {
+  content: '▲';
+}
+
+/* Estilos para el dropdown principal */
+.main-dropdown-toggle {
+  background-color: white;
+  color: black;
+}
+
+/* Estilos para los dropdowns secundarios */
+.nested-dropdown-toggle,
+.nested-dropdown-item {
+  background-color: white;
+  color: black;
+}

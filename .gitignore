@@ -1,1 +1,40 @@
-node_modules
+FAT/
+ElectroStock/__pycache__
+ElectroStock/ElectroStockApp/migrations/
+ElectroStock/ElectroStockApp/__pycache__/
+ElectroStock/ElectroStockApp/migrations/__pycache__/
+ElectroStock/api/migrations/__pycache__/
+__pycache__
+ElectroStock/api/__pycache__/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+../ElectroStock/ElectroStock/__pycache__
+frontend/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.python-version
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/frontend/node_modules
+/venv
+/ElectroStock/venv
+/frontend/build
+/ElectroStock/db.sqlite3
+.idea

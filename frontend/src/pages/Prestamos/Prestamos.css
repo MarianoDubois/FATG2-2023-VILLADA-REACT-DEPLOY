@@ -1,0 +1,9 @@
+
+  .prestamo-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.img-container {
+  flex: 1;
+}
